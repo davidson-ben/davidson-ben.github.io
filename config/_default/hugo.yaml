@@ -6,7 +6,7 @@
 # Website name
 title: Benjamin Davidson
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: ''
 
 ############################
 ## LANGUAGE
