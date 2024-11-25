@@ -110,7 +110,7 @@ skills:
     items:
       - name: Experimental Research
         description: ''
-        percent: 80
+        percent: 100
         icon: ''
       - name: Experimental Setup
         description: ''
@@ -118,11 +118,7 @@ skills:
         icon: ''
       - name: Data Analysis
         description: ''
-        percent: 40
-        icon: ''
-        - name: Image Processing
-        description: ''
-        percent: 40
+        percent: 100
         icon: ''
   - name: Hobbies
     color: '#eeac02'
@@ -140,10 +136,6 @@ skills:
         description: ''
         percent: 80
         icon: camera
-      -name: extra
-        descrption: ''
-        percent: 40
-        icon: ''
 
 #languages:
 #  - name: English
