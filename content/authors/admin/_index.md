@@ -3,7 +3,7 @@
 title: Benjamin Davidson
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Benjamin
@@ -46,7 +46,8 @@ interests:
   - Swash Processes
   - Microplastic Pollution
   - Microplastic Beaching
-  - Science Communication and Outreach
+  - Science Communication
+  - Science Outreach
 
 education:
   - area: PhD Civil and Environmental Engineering
@@ -54,7 +55,7 @@ education:
     date_start: 2020-09-01
 #    date_end: 2020-12-31
     summary: |
-      Summary Text...
+      Investigating the physical beaching process of buoyant marine debris in coastal environments through field work, wave flume and wave basin experiments, and com putational modeling.
 #      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
 #    button:
 #      text: 'Read Thesis'
@@ -80,28 +81,27 @@ education:
       Minors: Mathematics and Environmental Studies
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Graduate Research Assistant
+    company_name: University of Wisconsin - Madison
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2020-08-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Investigating the physical beaching process of buoyant marine debris in coastal environments through field work, wave flume and wave basin experiments, and com putational modeling.
+      - Retrieved and isolated microplasitcs from beach sediments on Western Lake Superior to investigate the trends in microplastic beach deposition.
+      - Developed simple beaching model (1D) for buoyant marine debris with wave flume experimental validation.
+      - Developed expanded beaching model (2D) for buoyant marine debris with wave basin experimental validation (in progress).
+      - Exploringanovelregimeforbuoyantdebrisdispersionintheswashzoneandtheimplications for particle transport and fate.
+  - position: Transatlantic Research Partnership - Casimir Study
+    company_name: IRPHE, Marseille, France
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-01-01
+    date_end: 2024-01-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Set up preliminary experiemnts to study the Casimir effect on buoyant marine debris in surface wave turbulence.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
