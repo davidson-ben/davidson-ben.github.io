@@ -12,8 +12,6 @@ image:
 
 Ben presented the Weston Roundtable lecture on October 24, 2024.  
 
-About = "Some [text](https://mediaspace.wisc.edu/media/WestonRoundtable_BenDavidson_20241024/1_ycdszaun)"
-
 <a href="https://mediaspace.wisc.edu/media/WestonRoundtable_BenDavidson_20241024/1_ycdszaun"> {{ .Site.Params.About | markdownify }}</a>
 
 
