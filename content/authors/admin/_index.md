@@ -111,7 +111,7 @@ skills:
       - name: Experimental Research
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: ''
       - name: Data Science
         description: ''
         percent: 100
