@@ -102,6 +102,14 @@ work:
     summary: |
       Responsibilities include:
       - Set up preliminary experiemnts to study the Casimir effect on buoyant marine debris in surface wave turbulence.
+  - position: Incorporated Research Institutions for Seismology REU
+    company_name: Brown University, Providence, RI
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-05-01
+    date_end: 2020-05-31
+    summary: |
+      Developed structural model of the crust and upper mantle beneath Alaska using Rayleigh wave attenuation.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
