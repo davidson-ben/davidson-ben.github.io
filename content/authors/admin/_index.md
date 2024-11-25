@@ -112,14 +112,30 @@ skills:
         description: ''
         percent: 80
         icon: ''
-      - name: Data Science
+      - name: Experimental Setup
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: ''
+      - name: Data Analysis
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: ''
+        - name: Image Processing
+        description: ''
+        percent: 40
+        icon: ''
+        - name: MATLAB
+        description: ''
+        percent: 40
+        icon: ''
+        - name: Data Acquisition Systems
+        description: ''
+        percent: 40
+        icon: ''
+        - name: Particle Image Velocimetry
+        description: ''
+        percent: 40
+        icon: ''
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
