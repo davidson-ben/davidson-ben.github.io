@@ -140,6 +140,10 @@ skills:
         description: ''
         percent: 80
         icon: camera
+      -name: extra
+        descrption: ''
+        percent: 40
+        icon: ''
 
 #languages:
 #  - name: English
