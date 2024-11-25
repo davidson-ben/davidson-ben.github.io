@@ -106,44 +106,59 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Research and Analysis
     items:
-      - name: Python
+      - name: Experimental Research
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+        percent: ''
+        icon: ''
+      - name: Experimental Setup
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: 
+      - name: Data Analysis
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
+      - name: Image Processing
+      - name: MATLAB
+      - name: Data Acquisition Systems
+      - name: Particle Image Velocimetry
+  - name: Design and Fabrication
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: 3D Printing (FDM, SLA, SLS)
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: 3D Modeling (Onshape)
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Engineering Design
         description: ''
         percent: 80
         icon: camera
+      - name: Micro-controllers
+    - name: Communication
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Written Communication
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Oral Communication
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Science Outreach
+        description: ''
+        percent: 80
+        icon: camera
+      - name: Teaching and Mentoring
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
