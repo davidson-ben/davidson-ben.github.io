@@ -15,7 +15,7 @@ author_notes:
   - ''
   - ''
 
-date: '2023-01-01T00:00:00Z'
+date: ''
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
