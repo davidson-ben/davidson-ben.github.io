@@ -106,24 +106,24 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Research and Analysis
-    items:
-      - name: Experimental Research
-        description: ''
-        percent: ''
-        icon: ''
-      - name: Experimental Setup
-        description: ''
-        percent: 100
-        icon: 
-      - name: Data Analysis
-        description: ''
-        percent: 40
-        icon: circle-stack
-      - name: Image Processing
-      - name: MATLAB
-      - name: Data Acquisition Systems
-      - name: Particle Image Velocimetry
+  #- name: Research and Analysis
+  #  items:
+  #    - name: Experimental Research
+  #      description: ''
+  #      percent: ''
+  #      icon: ''
+  #    - name: Experimental Setup
+  #      description: ''
+  #      percent: 100
+  #      icon: 
+  #    - name: Data Analysis
+  #      description: ''
+  #      percent: 40
+  #      icon: circle-stack
+  #    - name: Image Processing
+  #    - name: MATLAB
+  #    - name: Data Acquisition Systems
+  #    - name: Particle Image Velocimetry
   - name: Design and Fabrication
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -140,7 +140,7 @@ skills:
         description: ''
         percent: 80
         icon: camera
-      - name: Micro-controllers
+  #    - name: Micro-controllers
     - name: Communication
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -157,7 +157,7 @@ skills:
         description: ''
         percent: 80
         icon: camera
-      - name: Teaching and Mentoring
+  #    - name: Teaching and Mentoring
 
 
 # Awards.
