@@ -188,4 +188,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ben is a PhD student in Civil & Environmental Engineering (with a minor in mechanical engineering) at the University of Wisconsin - Madison.  In 2020, Ben received his BA in physics from Luther College in Decorah, IA.  Ben's research focuses on plastic and microplastic pollution at coastal boundaries.  He uses lab experiments, field experiemtns, and computational modeling to understand the fate and transport of plastics on beaches.
