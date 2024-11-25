@@ -106,9 +106,9 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Research and Analysis
     items:
-      - name: Python
+      - name: Experimental Research
         description: ''
         percent: 80
         icon: code-bracket
