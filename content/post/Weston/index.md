@@ -12,6 +12,6 @@ image:
 
 Ben presented the Weston Roundtable lecture on October 24, 2024.  
 
-<a href="https://mediaspace.wisc.edu/media/WestonRoundtable_BenDavidson_20241024/1_ycdszaun">{{ .Site.Params.about }}</a>
+<a href="https://mediaspace.wisc.edu/media/WestonRoundtable_BenDavidson_20241024/1_ycdszaun"> Recording of Weston Roundtable Series Lecture</a>
 
 
