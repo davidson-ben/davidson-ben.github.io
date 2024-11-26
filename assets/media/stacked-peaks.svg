@@ -1,9 +1,9 @@
 <svg id="visual" viewBox="0 0 960 540" width="960" height="540" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
-  <!-- Tan section as a simple rectangle (background), now thinner -->
-  <rect x="0" y="0" width="960" height="150" fill="#D0B99E"></rect>
+  <!-- Tan section as a simple rectangle (background) -->
+  <rect x="0" y="0" width="960" height="180" fill="#D0B99E"></rect>
 
-  <!-- Smooth transition from Driftwood Brown to Ocean Blue, with the top raised -->
-  <path d="M0,150 C240,200 240,200 480,200 C720,200 720,230 960,150 L960,540 L0,540 Z" fill="#8F7A5D"></path>
+  <!-- Smooth transition from Driftwood Brown to Ocean Blue -->
+  <path d="M0,100 C240,160 240,160 480,160 C720,160 720,230 960,100 L960,540 L0,540 Z" fill="#8F7A5D"></path>
 
   <!-- Smooth transition from Ocean Blue to Seafoam Blue -->
   <path d="M0,250 C240,320 240,320 480,320 C720,320 720,350 960,320 L960,540 L0,540 Z" fill="#7C9EB2"></path>
