@@ -1,16 +1,16 @@
 <svg id="visual" viewBox="0 0 960 540" width="960" height="540" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
   <!-- Tan section as a simple rectangle (background) -->
-  <rect x="0" y="0" width="960" height="180" fill="#D0B99E"></rect>
+  <rect x="0" y="0" width="960" height="180" fill="#1D2A4D"></rect>
 
   <!-- Smooth transition from Driftwood Brown to Ocean Blue -->
-  <path d="M0,100 C240,160 240,160 480,160 C720,160 720,230 960,100 L960,540 L0,540 Z" fill="#8F7A5D"></path>
+  <path d="M0,100 C240,160 240,160 480,160 C720,160 720,230 960,100 L960,540 L0,540 Z" fill="#2C3E6B"></path>
 
   <!-- Smooth transition from Ocean Blue to Seafoam Blue -->
-  <path d="M0,250 C240,320 240,320 480,320 C720,320 720,350 960,320 L960,540 L0,540 Z" fill="#7C9EB2"></path>
+  <path d="M0,250 C240,320 240,320 480,320 C720,320 720,350 960,320 L960,540 L0,540 Z" fill="#4A6A8B"></path>
   
   <!-- Smooth transition from Seafoam Blue to Navy -->
-  <path d="M0,320 C240,380 240,380 480,390 C720,400 720,420 960,390 L960,540 L0,540 Z" fill="#7B9E99"></path>
+  <path d="M0,320 C240,380 240,380 480,390 C720,400 720,420 960,390 L960,540 L0,540 Z" fill="#B89F7A"></path>
 
   <!-- Navy base layer to ensure a darker footer effect -->
-  <path d="M0,390 C240,460 240,460 480,470 C720,480 720,490 960,470 L960,540 L0,540 Z" fill="#3B4A61"></path>
+  <path d="M0,390 C240,460 240,460 480,470 C720,480 720,490 960,470 L960,540 L0,540 Z" fill="#D0B594"></path>
 </svg>
