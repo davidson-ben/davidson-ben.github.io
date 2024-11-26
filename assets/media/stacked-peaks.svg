@@ -1,6 +1,6 @@
 <svg id="visual" viewBox="0 0 960 540" width="960" height="540" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
-  <!-- Smooth transition from Sand Brown to Driftwood Brown -->
-  <path d="M0,0 C240,100 240,100 480,80 C720,60 720,100 960,0 L960,540 L0,540 Z" fill="#D0B99E"></path>
+  <!-- Tan section (Muted Sand Brown) now extends fully across the width -->
+  <path d="M0,0 L960,0 L960,100 L0,100 Z" fill="#D0B99E"></path>
 
   <!-- Smooth transition from Driftwood Brown to Ocean Blue -->
   <path d="M0,100 C240,200 240,200 480,200 C720,200 720,230 960,200 L960,540 L0,540 Z" fill="#8F7A5D"></path>
