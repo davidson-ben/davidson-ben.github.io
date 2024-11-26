@@ -8,6 +8,8 @@ tags:
   -
 image:
   caption: ''
+
+  reading_time: false
 ---
 
 Presented work regarding microplastic pollution and issues to legislators and staff at the Wisconsin state capitol.

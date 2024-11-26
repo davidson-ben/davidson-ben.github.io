@@ -8,6 +8,8 @@ tags:
   -
 image:
   caption: ''
+
+  reading_time: false
 ---
 
 Presented a virtual lesson to high school students at Rhinelander High School about microplastics in the Great Lakes.

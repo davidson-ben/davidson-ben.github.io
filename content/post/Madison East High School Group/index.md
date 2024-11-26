@@ -8,6 +8,8 @@ tags:
   -
 image:
   caption: ''
+
+  reading_time: false
 ---
 
 - Description of activity

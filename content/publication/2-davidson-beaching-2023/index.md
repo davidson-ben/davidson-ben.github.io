@@ -56,7 +56,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: uploads/Davidson_2023.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -71,6 +71,8 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+  reading_time: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
