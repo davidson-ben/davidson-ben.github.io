@@ -144,7 +144,67 @@ skills:
         description: ''
         percent: 100
         icon: ''
-  - name: Research and Analysis
+  - name: Design and Fabrication
+    items:
+      - name: 1
+        description: ''
+        percent: 100
+        icon: ''
+      - name: 2
+        description: ''
+        percent: 100
+        icon: ''
+      - name: ''
+        description: ''
+        percent: 100
+        icon: ''
+      - name: ''
+        description: ''
+        percent: 100
+        icon: ''
+      - name: ''
+        description: ''
+        percent: 100
+        icon: ''
+      - name: ''
+        description: ''
+        percent: 100
+        icon: ''
+      - name: ''
+        description: ''
+        percent: 100
+        icon: ''
+  - name: Communication
+    items:
+      - name: 1
+        description: ''
+        percent: 100
+        icon: ''
+      - name: 2
+        description: ''
+        percent: 100
+        icon: ''
+      - name: ''
+        description: ''
+        percent: 100
+        icon: ''
+      - name: ''
+        description: ''
+        percent: 100
+        icon: ''
+      - name: ''
+        description: ''
+        percent: 100
+        icon: ''
+      - name: ''
+        description: ''
+        percent: 100
+        icon: ''
+      - name: ''
+        description: ''
+        percent: 100
+        icon: ''
+  - name: Hobbies
     items:
       - name: 1
         description: ''
