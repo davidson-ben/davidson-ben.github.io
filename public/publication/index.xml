@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Benjamin Davidson</title>
+    <link>//localhost:1313/publication/</link>
+      <atom:link href="//localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu3010647768737102974.png</url>
+      <title>Publications</title>
+      <link>//localhost:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>Beaching model for buoyant marine debris in bore-driven swash</title>
+      <link>//localhost:1313/publication/2-davidson-beaching-2023/</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/2-davidson-beaching-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microplastic contamination of sediments across and within three beaches in western Lake Superior</title>
+      <link>//localhost:1313/publication/1-davidson-microplastic-2022/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/1-davidson-microplastic-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

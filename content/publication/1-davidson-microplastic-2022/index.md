@@ -22,7 +22,7 @@ date: '2022-09-15'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ''
+publishDate: '2022-09-15'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

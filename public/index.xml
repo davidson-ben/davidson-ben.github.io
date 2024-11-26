@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benjamin Davidson</title>
+    <link>//localhost:1313/</link>
+      <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Benjamin Davidson</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu3010647768737102974.png</url>
+      <title>Benjamin Davidson</title>
+      <link>//localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title>Weston Roundtable Lecture Series: Speaker Benjamin Davidson</title>
+      <link>//localhost:1313/post/weston/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/weston/</guid>
+      <description>&lt;p&gt;Ben presented the Weston Roundtable lecture on October 24, 2024.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mediaspace.wisc.edu/media/WestonRoundtable_BenDavidson_20241024/1_ycdszaun&#34;&gt; Weston Roundtable Lecture Series Video Archive &lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Madison East High School Outreach Project</title>
+      <link>//localhost:1313/post/madison-east-high-school-group/</link>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/madison-east-high-school-group/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Description of activity&lt;/li&gt;
+&lt;li&gt;Attach handout and MATLAB code?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transatlantic Research Partnership - Casimir Study</title>
+      <link>//localhost:1313/post/france/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/france/</guid>
+      <description>&lt;p&gt;Set up preliminary experiemnts to study the Casimir effect on buoyant marine debris in surface wave turbulence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Arduino Trigger</title>
+      <link>//localhost:1313/project/arduino-trigger/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/arduino-trigger/</guid>
+      <description>&lt;p&gt;Text&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beach</title>
+      <link>//localhost:1313/project/beach/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/beach/</guid>
+      <description>&lt;p&gt;Text&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DELTA</title>
+      <link>//localhost:1313/teaching_and_outreach/delta/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching_and_outreach/delta/</guid>
+      <description>&lt;p&gt;This is the text for the delta course&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DELTA</title>
+      <link>//localhost:1313/teaching_and_outreach/physics-lab-assistant/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching_and_outreach/physics-lab-assistant/</guid>
+      <description>&lt;p&gt;This is the text for the delta course&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DELTA</title>
+      <link>//localhost:1313/teaching_and_outreach/physics-tutor/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching_and_outreach/physics-tutor/</guid>
+      <description>&lt;p&gt;This is the text for the delta course&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Education and Research</title>
+      <link>//localhost:1313/education_and_research/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/education_and_research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabrication Fellowship</title>
+      <link>//localhost:1313/teaching_and_outreach/fab-fellow/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching_and_outreach/fab-fellow/</guid>
+      <description>&lt;p&gt;Text&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Fluid Mechanics</title>
+      <link>//localhost:1313/teaching_and_outreach/cee-310/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching_and_outreach/cee-310/</guid>
+      <description>&lt;p&gt;Text&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Particles</title>
+      <link>//localhost:1313/project/particles/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/particles/</guid>
+      <description>&lt;p&gt;Text&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beaching model for buoyant marine debris in bore-driven swash</title>
+      <link>//localhost:1313/publication/2-davidson-beaching-2023/</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/2-davidson-beaching-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Young Coastal Scientist and Engineers Conference - Americas (YCSEC-A)</title>
+      <link>//localhost:1313/post/ycseca/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/ycseca/</guid>
+      <description>&lt;p&gt;The University of Wisconsin - Madison hosted the 9th Young Coastal Scientists and Engineers Conference – Americas (YCSEC-A).  Ben served on the student organization committee, helping to faciliate a smooth conference experience for the attendees.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wisconsin Sea Grant &#39;Ask a Scientist&#39;</title>
+      <link>//localhost:1313/post/ask-a-scientist/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/ask-a-scientist/</guid>
+      <description>&lt;p&gt;Presented a virtual lesson to high school students at Rhinelander High School about microplastics in the Great Lakes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microplastic contamination of sediments across and within three beaches in western Lake Superior</title>
+      <link>//localhost:1313/publication/1-davidson-microplastic-2022/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/1-davidson-microplastic-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UW - Madison Day at the Capitol</title>
+      <link>//localhost:1313/post/day-at-the-capitol/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/day-at-the-capitol/</guid>
+      <description>&lt;p&gt;Presented work regarding microplastic pollution and issues to legislators and staff at the Wisconsin state capitol.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design Portfolio</title>
+      <link>//localhost:1313/design_portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/design_portfolio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

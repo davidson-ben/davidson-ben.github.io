@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching and Outreach | Benjamin Davidson</title>
+    <link>//localhost:1313/teaching_and_outreach/</link>
+      <atom:link href="//localhost:1313/teaching_and_outreach/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching and Outreach</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu3010647768737102974.png</url>
+      <title>Teaching and Outreach</title>
+      <link>//localhost:1313/teaching_and_outreach/</link>
+    </image>
+    
+    <item>
+      <title>DELTA</title>
+      <link>//localhost:1313/teaching_and_outreach/delta/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching_and_outreach/delta/</guid>
+      <description>&lt;p&gt;This is the text for the delta course&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DELTA</title>
+      <link>//localhost:1313/teaching_and_outreach/physics-lab-assistant/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching_and_outreach/physics-lab-assistant/</guid>
+      <description>&lt;p&gt;This is the text for the delta course&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DELTA</title>
+      <link>//localhost:1313/teaching_and_outreach/physics-tutor/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching_and_outreach/physics-tutor/</guid>
+      <description>&lt;p&gt;This is the text for the delta course&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fabrication Fellowship</title>
+      <link>//localhost:1313/teaching_and_outreach/fab-fellow/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching_and_outreach/fab-fellow/</guid>
+      <description>&lt;p&gt;Text&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Fluid Mechanics</title>
+      <link>//localhost:1313/teaching_and_outreach/cee-310/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching_and_outreach/cee-310/</guid>
+      <description>&lt;p&gt;Text&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
