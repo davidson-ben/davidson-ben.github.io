@@ -49,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'Davidson_2022.pdf'
+url_pdf: uploads/Davidson_2022.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
