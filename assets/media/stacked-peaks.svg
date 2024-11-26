@@ -1,16 +1,16 @@
 <svg id="visual" viewBox="0 0 960 540" width="960" height="540" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
   <!-- Smooth transition from Sand Brown to Driftwood Brown -->
-  <path d="M0,400 C100,450 200,420 300,400 C400,380 500,420 600,420 C700,420 800,380 960,400 L960,540 L0,540 Z" fill="#D0B99E"></path>
+  <path d="M0,0 C120,100 240,90 360,120 C480,150 600,130 720,150 C840,170 960,140 960,0 L960,540 L0,540 Z" fill="#D0B99E"></path>
   
   <!-- Smooth transition from Driftwood Brown to Ocean Blue -->
-  <path d="M0,360 C100,300 200,280 300,270 C400,260 500,270 600,280 C700,290 800,270 960,270 L960,360 L0,360 Z" fill="#8F7A5D"></path>
+  <path d="M0,50 C120,150 240,170 360,180 C480,190 600,170 720,180 C840,190 960,180 960,50 L960,540 L0,540 Z" fill="#8F7A5D"></path>
 
   <!-- Smooth transition from Ocean Blue to Seafoam Blue -->
-  <path d="M0,320 C100,260 200,240 300,220 C400,200 500,220 600,230 C700,240 800,220 960,230 L960,320 L0,320 Z" fill="#7C9EB2"></path>
+  <path d="M0,100 C120,180 240,190 360,210 C480,220 600,210 720,220 C840,230 960,220 960,100 L960,540 L0,540 Z" fill="#7C9EB2"></path>
   
   <!-- Smooth transition from Seafoam Blue to Navy -->
-  <path d="M0,280 C100,220 200,210 300,200 C400,190 500,200 600,210 C700,220 800,210 960,210 L960,280 L0,280 Z" fill="#7B9E99"></path>
+  <path d="M0,150 C120,230 240,250 360,270 C480,280 600,270 720,280 C840,290 960,280 960,150 L960,540 L0,540 Z" fill="#7B9E99"></path>
 
   <!-- Navy base layer to ensure a darker footer effect -->
-  <path d="M0,540 C100,490 200,470 300,460 C400,450 500,460 600,470 C700,480 800,470 960,460 L960,540 L0,540 Z" fill="#3B4A61"></path>
+  <path d="M0,270 C120,350 240,370 360,380 C480,390 600,380 720,380 C840,380 960,380 960,270 L960,540 L0,540 Z" fill="#3B4A61"></path>
 </svg>
