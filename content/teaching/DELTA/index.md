@@ -8,6 +8,7 @@ tags:
   - ''
 image:
   caption: ''
+  preview_only: false
 ---
 
 This is the text for the delta course
