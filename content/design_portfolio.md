@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: 'Design Portfolio'
 date: 2024-05-19
 type: landing
 
