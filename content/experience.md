@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: 'Research Experience'
 date: 2023-10-24
 type: landing
 
@@ -28,8 +28,8 @@ sections:
     content:
       title: Awards
       username: admin
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
+#  - block: resume-languages
+#    content:
+#      title: Languages
+#      username: admin
 ---
