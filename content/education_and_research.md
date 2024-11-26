@@ -3,8 +3,8 @@ title: 'Education and Research'
 date: 2023-10-24
 type: landing
 
-design: d
-  spacing: '5rem'
+design:
+  spacing: '3rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
