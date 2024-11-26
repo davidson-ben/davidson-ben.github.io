@@ -13,15 +13,12 @@ main:
   - name: News
     url: /#news
     weight: 13
-  - name: Experience
-    url: experience/
+  - name: Education and Research
+    url: education_and_research/
     weight: 20
-  - name: Teaching
-    url: teaching/
+  - name: Teaching and Outreach
+    url: teaching_and_outreach/
     weight: 30
   - name: Design Portfolio
     url: design_portfolio/
     weight: 40
-  - name: Education and Research
-    url: education_and_research/
-    weight: 50
