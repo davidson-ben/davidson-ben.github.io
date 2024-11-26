@@ -10,4 +10,4 @@ image:
   caption: ''
 ---
 
-This is the text for the delta course
+DELTA internship project - outreach with MEHS students.  Upload document and code?

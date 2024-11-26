@@ -11,12 +11,12 @@ cascade:
 
 sections:
   - block: collection
-    id: teaching
+    id: teaching_and_outreach
     content:
-      title: Teaching
+      title: Teaching and Outreach
       filters:
         folders:
-          - teaching
+          - teaching_and_outreach
     design:
       view: article-grid
       fill_image: false

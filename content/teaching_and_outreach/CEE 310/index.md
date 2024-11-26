@@ -10,4 +10,4 @@ image:
   caption: ''
 ---
 
-Text
+Fall 2021 and Fall 2022 TA for CEE 310 - Introduction to Fluid Mechanics
