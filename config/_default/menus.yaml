@@ -22,3 +22,6 @@ main:
   - name: Design Portfolio
     url: design_portfolio/
     weight: 40
+  - name: Education and Research
+    url: education_and_research/
+    weight: 50
