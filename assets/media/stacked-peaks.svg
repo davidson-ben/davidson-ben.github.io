@@ -1,16 +1,31 @@
-<svg id="visual" viewBox="0 0 960 540" width="960" height="540" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
-  <!-- Tan section as a simple rectangle (background) -->
-  <rect x="0" y="0" width="960" height="180" fill="#1A2632"></rect>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 959.55 540">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #726658;
+      }
 
-  <!-- Smooth transition from Driftwood Brown to Ocean Blue -->
-  <path d="M0,100 C240,160 240,160 480,160 C720,160 720,230 960,100 L960,540 L0,540 Z" fill="#2A3D57"></path>
+      .cls-2 {
+        fill: #00253f;
+      }
 
-  <!-- Smooth transition from Ocean Blue to Seafoam Blue -->
-  <path d="M0,250 C240,320 240,320 480,320 C720,320 720,350 960,320 L960,540 L0,540 Z" fill="#3F556B"></path>
-  
-  <!-- Smooth transition from Seafoam Blue to Navy -->
-  <path d="M0,320 C240,380 240,380 480,390 C720,400 720,420 960,390 L960,540 L0,540 Z" fill="#5F4A36"></path>
+      .cls-3 {
+        fill: #594a42;
+      }
 
-  <!-- Navy base layer to ensure a darker footer effect -->
-  <path d="M0,390 C240,460 240,460 480,470 C720,480 720,490 960,470 L960,540 L0,540 Z" fill="#A88F6E"></path>
+      .cls-4 {
+        fill: #003d5f;
+      }
+
+      .cls-5 {
+        fill: #003748;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x=".05" y="471.09" width="959.5" height="68.91"/>
+  <path class="cls-3" d="M959.5,487.68s-142.61,19.62-190.5,20.36c-117.41,1.83-350.95-33.85-468.36-35.35-75.25-.96-300.65,14.99-300.65,14.99v-115.18h959.5v115.18Z"/>
+  <path class="cls-4" d="M959.55,411.73s-178.89,19.23-238.75,18.27c-114.74-1.84-341.56-50.26-456.31-49.7C197.92,380.63.05,411.73.05,411.73v-185.77h959.5v185.77Z"/>
+  <path class="cls-5" d="M959.55,270.55s-144.08,14.83-192.15,18.8c-65.23,5.39-195.77,20.07-261.09,17.57-93.67-3.59-279.05-53.17-372.76-53.81C100.02,252.88.05,270.55.05,270.55V115.62h959.5v154.92Z"/>
+  <path class="cls-2" d="M959.55,130.99s-150.93,15.42-201.31,19.49c-141.72,11.44-441.53,31.79-582.92,15.94C126.27,160.92.05,130.99.05,130.99V0h959.5v130.99Z"/>
 </svg>
