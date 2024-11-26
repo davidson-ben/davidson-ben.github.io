@@ -19,5 +19,6 @@ sections:
           - teaching
     design:
       view: article-grid
-      columns: 2
+      fill_image: false
+      columns: 3
 ---
