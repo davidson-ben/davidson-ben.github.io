@@ -128,6 +128,10 @@ skills:
         description: ''
         percent: 100
         icon: ''
+      - name: new
+        description: ''
+        percent: 100
+        icon: ''
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -144,6 +148,10 @@ skills:
         description: ''
         percent: 80
         icon: camera
+      - name: new
+        description: ''
+        percent: 100
+        icon: ''
 
 #languages:
 #  - name: English
