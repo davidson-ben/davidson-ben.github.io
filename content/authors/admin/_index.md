@@ -146,19 +146,19 @@ skills:
         icon: ''
   - name: Design and Fabrication
     items:
-      - name: 1
+      - name: 3D Printing (FDM, SLA, SLS)
         description: ''
         percent: 100
         icon: ''
-      - name: 2
+      - name: 3D Modeling (Onshape)
         description: ''
         percent: 100
         icon: ''
-      - name: ''
+      - name: Engineering Design
         description: ''
         percent: 100
         icon: ''
-      - name: ''
+      - name: Microcontrollers (Arduino)
         description: ''
         percent: 100
         icon: ''
@@ -176,15 +176,15 @@ skills:
         icon: ''
   - name: Communication
     items:
-      - name: 1
+      - name: Scientific Writing
         description: ''
         percent: 100
         icon: ''
-      - name: 2
+      - name: Science Outreach
         description: ''
         percent: 100
         icon: ''
-      - name: ''
+      - name: Teaching and Mentoring
         description: ''
         percent: 100
         icon: ''
@@ -206,23 +206,23 @@ skills:
         icon: ''
   - name: Hobbies
     items:
-      - name: 1
+      - name: Hiking
         description: ''
         percent: 100
         icon: ''
-      - name: 2
+      - name: Biking
         description: ''
         percent: 100
         icon: ''
-      - name: ''
+      - name: Skiing
         description: ''
         percent: 100
         icon: ''
-      - name: ''
+      - name: Crafting
         description: ''
         percent: 100
         icon: ''
-      - name: ''
+      - name: Baking
         description: ''
         percent: 100
         icon: ''
