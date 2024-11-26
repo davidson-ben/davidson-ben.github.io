@@ -128,27 +128,49 @@ skills:
         description: ''
         percent: 100
         icon: ''
-      - name: new
+      - name: Image Processing
         description: ''
         percent: 100
         icon: ''
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: MATLAB
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: ''
+      - name: Data Acquisition Systems
         description: ''
-        percent: 80
-        icon: camera
-      - name: new
+        percent: 100
+        icon: ''
+      - name: Particle Image Velocimetry
+        description: ''
+        percent: 100
+        icon: ''
+  - name: Research and Analysis
+    items:
+      - name: 1
+        description: ''
+        percent: 100
+        icon: ''
+      - name: 2
+        description: ''
+        percent: 100
+        icon: ''
+      - name: ''
+        description: ''
+        percent: 100
+        icon: ''
+      - name: ''
+        description: ''
+        percent: 100
+        icon: ''
+      - name: ''
+        description: ''
+        percent: 100
+        icon: ''
+      - name: ''
+        description: ''
+        percent: 100
+        icon: ''
+      - name: ''
         description: ''
         percent: 100
         icon: ''
