@@ -10,5 +10,5 @@ image:
   caption: ''
 ---
 
--Description of activity
--Attach handout and MATLAB code?
+- Description of activity
+- Attach handout and MATLAB code?
