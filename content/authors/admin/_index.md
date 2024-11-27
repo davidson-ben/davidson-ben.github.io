@@ -43,7 +43,7 @@ profiles:
     url: https://orcid.org/0000-0001-6991-6891
 
 interests:
-  - Swash Processes
+  - Swash Zone Processes
   - Microplastic Pollution
   - Microplastic Beaching
   - Science Communication
@@ -249,13 +249,13 @@ skills:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Becker Travel Awards
+    url: 
+    date: '2022-2024'
+    awarder: University of Wisconsin - Madison Department of Civil and Environmental Engineering
+    icon: 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      I recieved the Becker travel award from the Civil and Environmental Engineering Department at the University of Wisconsin - Madison to attend APS-DFD in 2022, IAGLR Annual Meeting in 2023, and YCSECA in 2024.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
