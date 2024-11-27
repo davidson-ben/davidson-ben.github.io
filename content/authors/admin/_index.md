@@ -251,19 +251,19 @@ skills:
 awards:
   - title: Becker Travel Awards
     url: 
-    date: '2024'
+    date: '2024-01-01'
     awarder: University of Wisconsin - Madison Department of Civil and Environmental Engineering
     icon: 
     summary: |
       I recieved the Becker travel award from the Civil and Environmental Engineering Department at the University of Wisconsin - Madison to attend APS-DFD in 2022, IAGLR Annual Meeting in 2023, and YCSECA in 2024.
   - title: Student Research Grants Competition
     url: 
-    date: '2024'
+    date: '2024-01-01'
     awarder: University of Wisconsin - Madison
     icon: 
     summary: |
       Twice recieved the Student Research Grant from the University of Wisconsin - Madison.  In 2023, an award of $1,500 was recieved to conduct debris beaching experiments at the Queen's University wave basin in Kingston, Ontario.  In 2024, an award of $1,500 was receved to travel to and present at the AGU Ocean Sciences Meeting.
-  - title: 'Object-Oriented Programming in R'
+  - title: Anna Grant Birge Scholarship
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
     date: '2023-01-21'
