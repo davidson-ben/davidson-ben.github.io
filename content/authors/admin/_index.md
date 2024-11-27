@@ -251,21 +251,18 @@ skills:
 awards:
   - title: Becker Travel Awards
     url: 
-    date: '2022-2024'
+    date: '2024'
     awarder: University of Wisconsin - Madison Department of Civil and Environmental Engineering
     icon: 
     summary: |
       I recieved the Becker travel award from the Civil and Environmental Engineering Department at the University of Wisconsin - Madison to attend APS-DFD in 2022, IAGLR Annual Meeting in 2023, and YCSECA in 2024.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+  - title: Student Research Grants Competition
+    url: 
+    date: '2024'
+    awarder: University of Wisconsin - Madison
+    icon: 
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      Twice recieved the Student Research Grant from the University of Wisconsin - Madison.  In 2023, an award of $1,500 was recieved to conduct debris beaching experiments at the Queen's University wave basin in Kingston, Ontario.  In 2024, an award of $1,500 was receved to travel to and present at the AGU Ocean Sciences Meeting.
   - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
