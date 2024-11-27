@@ -250,27 +250,40 @@ skills:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Becker Travel Awards
-    url: 
-    date: '2024-01-01'
+    url: ''
+    date: '2024-06-01'
     awarder: University of Wisconsin - Madison Department of Civil and Environmental Engineering
-    icon: 
+    icon: ''
     summary: |
       I recieved the Becker travel award from the Civil and Environmental Engineering Department at the University of Wisconsin - Madison to attend APS-DFD in 2022, IAGLR Annual Meeting in 2023, and YCSECA in 2024.
   - title: Student Research Grants Competition
-    url: 
-    date: '2024-01-01'
+    url: ''
+    date: '2024-02-01'
     awarder: University of Wisconsin - Madison
-    icon: 
+    icon: ''
     summary: |
       Twice recieved the Student Research Grant from the University of Wisconsin - Madison.  In 2023, an award of $1,500 was recieved to conduct debris beaching experiments at the Queen's University wave basin in Kingston, Ontario.  In 2024, an award of $1,500 was receved to travel to and present at the AGU Ocean Sciences Meeting.
   - title: Anna Grant Birge Scholarship
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+    url: ''
+    date: '2021-05-01'
+    awarder: University of Wisconsin - Madison
+    icon: ''
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Research funding scholarship of $1,500 for microplastic analysis and laboratory microplastic beaching experiments.
+  - title: YCSEC-A - Student Presentation Award
+    url: ''
+    date: '2021-10-30'
+    awarder: YCSEC-A
+    icon: ''
+    summary: |
+      Outstanding oral presentation award at the Young Coastal Scientists and Engineers Conference - AMericas 2021.
+  - title: Phi Beta Kappa
+    url: ''
+    date: '2020-05-01'
+    awarder: Luther College
+    icon: ''
+    summary: |
+      Inducted into Phi Beta Kappa, academic honor society.
 ---
 
 ## About Me
