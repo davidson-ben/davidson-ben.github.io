@@ -25,7 +25,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: beach.svg
           filters:
             brightness: 1.0
           size: cover
@@ -50,7 +50,7 @@ sections:
       view: article-grid
       columns: 2
       background:
-        color: white #'#726658'
+        color: '#dabc94'
   - block: collection
     id: news
     content:
