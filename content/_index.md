@@ -39,7 +39,7 @@ sections:
       text: Insert in-depth summary of research work...
     design:
       background:
-        color: '#ede8d0'
+        color: white
           
   - block: collection
     id: papers
@@ -53,7 +53,7 @@ sections:
       view: article-grid
       columns: 2
       background:
-        color: '#ede8d0'
+        color: white
   - block: collection
     id: news
     content:
@@ -84,5 +84,5 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
       background:
-        color: '#dabc94'
+        color: white
 ---
