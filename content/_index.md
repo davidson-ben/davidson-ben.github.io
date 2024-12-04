@@ -84,5 +84,5 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
       background:
-        color: '#ede8d0'
+        color: '#dabc94'
 ---

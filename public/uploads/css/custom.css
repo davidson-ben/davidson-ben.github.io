@@ -1,12 +1,4 @@
 /* custom.css */
-body {
-    background-color: #f0f0f0; /* Replace with your preferred color */
-  }
-
 header {
-    background-color: #333; /* Dark background for the header */
-  }
-  
-footer {
-    background-color: #222; /* Dark footer */
-  }
+    background-color: black;
+}
