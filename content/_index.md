@@ -31,6 +31,12 @@ sections:
           size: cover
           position: center
           parallax: false
+  
+  - block: markdown
+    content:
+      title: My title
+      subtitle: My subtitle
+      text: Insert in-depth summary of research work...
           
   - block: collection
     id: papers
@@ -44,7 +50,7 @@ sections:
       view: article-grid
       columns: 2
       background:
-        color: '#726658'
+        color: white #'#726658'
   - block: collection
     id: news
     content:
