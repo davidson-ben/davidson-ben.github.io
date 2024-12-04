@@ -37,6 +37,9 @@ sections:
       title: My title
       subtitle: My subtitle
       text: Insert in-depth summary of research work...
+    design:
+      background:
+        color: '#dabc94'
           
   - block: collection
     id: papers
@@ -80,4 +83,6 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+      background:
+        color: '#dabc94'
 ---
