@@ -43,6 +43,8 @@ sections:
     design:
       view: article-grid
       columns: 2
+      background:
+        color: '#726658'
   - block: collection
     id: news
     content:

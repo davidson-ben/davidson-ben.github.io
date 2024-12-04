@@ -1,6 +1,6 @@
 ---
 title: DELTA
-summary: Delta internship
+summary: DELTA internship project - outreach with MEHS students.  Upload document and code?
 date: 2023-10-24
 type: docs
 math: false
@@ -10,4 +10,4 @@ image:
   caption: ''
 ---
 
-DELTA internship project - outreach with MEHS students.  Upload document and code?
+Page Under Construction
