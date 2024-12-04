@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
-date: 2022-10-24
+title: ''
+date: 2024-12-04
 type: landing
 
 design:
@@ -39,7 +39,7 @@ sections:
       text: Insert in-depth summary of research work...
     design:
       background:
-        color: white
+        color: ''
           
   - block: collection
     id: papers
@@ -53,7 +53,7 @@ sections:
       view: article-grid
       columns: 2
       background:
-        color: white
+        color: ''
   - block: collection
     id: news
     content:
@@ -84,5 +84,5 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
       background:
-        color: white
+        color: ''
 ---
