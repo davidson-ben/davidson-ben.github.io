@@ -36,7 +36,33 @@ sections:
     content:
       title: Marine Debris in Coastal Environments
       subtitle: ''
-      text: Insert in-depth summary of research work...
+      text: 
+        '
+        Around the globe, over 350 million tons of plastic waste are generated each year (Geyer et al., 2017, _Sci. Adv._).  While plastic has significantly enhanced the human experience—reducing infection in the medical field and reducing vehicle emissions, for example—it also poses a major environmental challenge.  Plastic waste easily contaminates natural environments, particularly our lakes, rivers, and oceans.
+        
+
+        In marine environments, there is a discrepancy between the estimated amount of plastic entering the oceans and the amount currently accounted for.  We are working to understand the problem of [missing plastic](https://www.science.org/content/article/ninety-nine-percent-ocean-plastic-has-gone-missing) by studying how plastic debris interacts with shoreline environments.
+
+        ### Field Experiments
+
+        I have previously conducted experiments on the beaches of Lake Superior, focusing on the accumulation and burial of microplasitcs in beach sediments.  Our [2022 study](publication/1-davidson-microplastic-2022/) showed that individual characteristics of a beach were not strong predictors of microplastic pollution.  Instead, the individual beaches sampled (with a combination of characteristics) significantly influence the prediction of microplastic pollution.  Due to the many competing factors in a field study, we decided to pivot to laboratory and modeling studies to gain foundational understanding of plastic/shoreline interactions.  I plan to return to field experiments in the future to achieve a holeistic understanding of microplastic pollution.
+      
+
+        ### Laboratory Experiments
+
+        WSEL Flume and cite
+
+        Queens Basin (photo)
+
+        OSU Basin (photo?)
+
+        ### Computational Modeling
+
+        MATLAB and cite
+
+
+        '
+
     design:
       background:
         color: ''
@@ -63,7 +89,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 0
+      count: 4
       # Filter on criteria
       filters:
         author: ""

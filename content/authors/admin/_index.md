@@ -55,7 +55,11 @@ education:
     date_start: 2020-09-01
 #    date_end: 2020-12-31
     summary: |
-      Investigating the physical beaching process of buoyant marine debris in coastal environments through field work, wave flume and wave basin experiments, and com putational modeling.
+      Investigating the physical beaching process of buoyant marine debris in coastal environments through field work, wave flume experiments, wave basin experiments, and computational modeling.
+
+      Minor: Mechanical Engineering
+
+      Certificate: Delta Certificate in Research, Teaching, and Learning (completed August 2024)
 #      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
 #    button:
 #      text: 'Read Thesis'
@@ -80,6 +84,8 @@ education:
       
       Minors: Mathematics and Environmental Studies
 
+      Senior Thesis: "Shear Wave Velocity Structure Beneath Alaska from Rayleigh Wave Amplification and Phase Velocity."
+
 work:
   - position: Graduate Research Assistant
     company_name: University of Wisconsin - Madison
@@ -88,11 +94,10 @@ work:
     date_start: 2020-08-01
     date_end: ''
     summary: |2-
-      - Investigating the physical beaching process of buoyant marine debris in coastal environments through field work, wave flume and wave basin experiments, and com putational modeling.
-      - Retrieved and isolated microplasitcs from beach sediments on Western Lake Superior to investigate the trends in microplastic beach deposition.
+      - Retrieved and isolated microplasitcs from beach sediments on western Lake Superior to investigate the trends in microplastic beach deposition.
       - Developed simple beaching model (1D) for buoyant marine debris with wave flume experimental validation.
       - Developed expanded beaching model (2D) for buoyant marine debris with wave basin experimental validation (in progress).
-      - Exploringanovelregimeforbuoyantdebrisdispersionintheswashzoneandtheimplications for particle transport and fate.
+      - Exploring a novel regime for buoyant debris dispersion in the swash zone and the implications for particle transport and fate (in progress).
   - position: Transatlantic Research Partnership - Casimir Study
     company_name: IRPHE, Marseille, France
     company_url: ''
@@ -100,7 +105,6 @@ work:
     date_start: 2024-01-01
     date_end: 2024-01-31
     summary: |
-      Responsibilities include:
       - Set up preliminary experiemnts to study the Casimir effect on buoyant marine debris in surface wave turbulence.
   - position: Incorporated Research Institutions for Seismology REU
     company_name: Brown University, Providence, RI
@@ -109,30 +113,18 @@ work:
     date_start: 2019-05-01
     date_end: 2020-05-31
     summary: |
-      Developed structural model of the crust and upper mantle beneath Alaska using Rayleigh wave attenuation.
+      - Developed structural model of the crust and upper mantle beneath Alaska using Rayleigh wave attenuation.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Research and Analysis
+  - name: Research
     items:
       - name: Experimental Research
         description: ''
         percent: 100
         icon: ''
-      - name: Experimental Setup
-        description: ''
-        percent: 100
-        icon: ''
-      - name: Data Analysis
-        description: ''
-        percent: 100
-        icon: ''
       - name: Image Processing
-        description: ''
-        percent: 100
-        icon: ''
-      - name: MATLAB
         description: ''
         percent: 100
         icon: ''
@@ -146,11 +138,11 @@ skills:
         icon: ''
   - name: Design and Fabrication
     items:
-      - name: 3D Printing (FDM, SLA, SLS)
+      - name: 3D Printing
         description: ''
         percent: 100
         icon: ''
-      - name: 3D Modeling (Onshape)
+      - name: 3D Modeling
         description: ''
         percent: 100
         icon: ''
@@ -158,58 +150,12 @@ skills:
         description: ''
         percent: 100
         icon: ''
-      - name: Microcontrollers (Arduino)
-        description: ''
-        percent: 100
-        icon: ''
-      - name: ''
-        description: ''
-        percent: 100
-        icon: ''
-      - name: ''
-        description: ''
-        percent: 100
-        icon: ''
-      - name: ''
-        description: ''
-        percent: 100
-        icon: ''
-  - name: Communication
-    items:
-      - name: Scientific Writing
-        description: ''
-        percent: 100
-        icon: ''
-      - name: Science Outreach
-        description: ''
-        percent: 100
-        icon: ''
-      - name: Teaching and Mentoring
-        description: ''
-        percent: 100
-        icon: ''
-      - name: ''
-        description: ''
-        percent: 100
-        icon: ''
-      - name: ''
-        description: ''
-        percent: 100
-        icon: ''
-      - name: ''
-        description: ''
-        percent: 100
-        icon: ''
-      - name: ''
+      - name: Microcontrollers
         description: ''
         percent: 100
         icon: ''
   - name: Hobbies
     items:
-      - name: Hiking
-        description: ''
-        percent: 100
-        icon: ''
       - name: Biking
         description: ''
         percent: 100
@@ -223,14 +169,6 @@ skills:
         percent: 100
         icon: ''
       - name: Baking
-        description: ''
-        percent: 100
-        icon: ''
-      - name: ''
-        description: ''
-        percent: 100
-        icon: ''
-      - name: ''
         description: ''
         percent: 100
         icon: ''
@@ -252,31 +190,31 @@ awards:
   - title: Becker Travel Awards
     url: ''
     date: '2024-06-01'
-    awarder: University of Wisconsin - Madison Department of Civil and Environmental Engineering
+    awarder: University of Wisconsin - Madison, Department of Civil & Environmental Engineering
     icon: ''
     summary: |
-      I recieved the Becker travel award from the Civil and Environmental Engineering Department at the University of Wisconsin - Madison to attend APS-DFD in 2022, IAGLR Annual Meeting in 2023, and YCSECA in 2024.
+      Received the _Becker Travel Award_ from the Civil and Environmental Engineering Department at the University of Wisconsin-Madison to attend APS-DFD in 2022, IAGLR Annual Meeting in 2023, and YCSECA in 2024.
   - title: Student Research Grants Competition
     url: ''
     date: '2024-02-01'
     awarder: University of Wisconsin - Madison
     icon: ''
     summary: |
-      Twice recieved the Student Research Grant from the University of Wisconsin - Madison.  In 2023, an award of $1,500 was recieved to conduct debris beaching experiments at the Queen's University wave basin in Kingston, Ontario.  In 2024, an award of $1,500 was receved to travel to and present at the AGU Ocean Sciences Meeting.
+      Twice received the _Student Research Grants Competition Award_ from the University of Wisconsin-Madison.  In 2023, an award of $1,500 was received to conduct debris beaching experiments at the Queen's University wave basin in Kingston, Ontario.  In 2024, an award of $1,500 was received to travel to and present at the AGU Ocean Sciences Meeting.
   - title: Anna Grant Birge Scholarship
     url: ''
     date: '2021-05-01'
     awarder: University of Wisconsin - Madison
     icon: ''
     summary: |
-      Research funding scholarship of $1,500 for microplastic analysis and laboratory microplastic beaching experiments.
+      Received a research funding scholarship of $1,500 for microplastic analysis and laboratory microplastic beaching experiments.
   - title: YCSEC-A - Student Presentation Award
     url: ''
     date: '2021-10-30'
     awarder: YCSEC-A
     icon: ''
     summary: |
-      Outstanding oral presentation award at the Young Coastal Scientists and Engineers Conference - AMericas 2021.
+      Received the _Outstanding Oral Presentation Award_ at the Young Coastal Scientists and Engineers Conference - Americas 2021.
   - title: Phi Beta Kappa
     url: ''
     date: '2020-05-01'
@@ -288,4 +226,4 @@ awards:
 
 ## About Me
 
-Ben is a PhD student in Civil & Environmental Engineering (with a minor in mechanical engineering) at the University of Wisconsin - Madison.  In 2020, Ben received his BA in physics from Luther College in Decorah, IA.  Ben's research focuses on plastic and microplastic pollution at coastal boundaries.  He uses lab experiments, field experiemtns, and computational modeling to understand the fate and transport of plastics on beaches.
+Ben is a PhD student in Civil & Environmental Engineering (with a minor in Mechanical Engineering) at the University of Wisconsin-Madison.  In 2020, Ben received his BA in physics from Luther College in Decorah, IA.  His research focuses on plastic and microplastic pollution at coastal boundaries.  He uses lab experiments, field experiments, and computational modeling to understand the fate and transport of plastics on beaches.

@@ -13,15 +13,6 @@
     </image>
     
     <item>
-      <title>DELTA</title>
-      <link>//localhost:1313/teaching_and_outreach/delta/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/teaching_and_outreach/delta/</guid>
-      <description>&lt;p&gt;Page Under Construction&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Fabrication Fellowship</title>
       <link>//localhost:1313/teaching_and_outreach/fab-fellow/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
@@ -36,6 +27,15 @@
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/teaching_and_outreach/cee-310/</guid>
       <description>&lt;p&gt;Page Under Construction&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mathematical Modeling Outreach with MEHS</title>
+      <link>//localhost:1313/teaching_and_outreach/delta/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching_and_outreach/delta/</guid>
+      <description>&lt;p&gt;In April 2024, Ben developed and hosted an outreach event between the Fluid Mechanics in Environmental Processes (FMEP) Group at UW-Madison and a group of high school students from Madison East High School (MEHS).  The event was focused around a live coding activity where students learned how to mathematically model plastic pollution on beaches in MATLAB.  The code files and original handout are &lt;a href=&#34;https://github.com/davidson-ben/mathematical_modeling_outreach_2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
