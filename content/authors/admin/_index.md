@@ -50,7 +50,7 @@ interests:
   - Science Outreach
 
 education:
-  - area: PhD Civil and Environmental Engineering
+  - area: PhD Civil and Environmental Engineering (In Progress)
     institution: University of Wisconsin - Madison
     date_start: 2020-09-01
 #    date_end: 2020-12-31

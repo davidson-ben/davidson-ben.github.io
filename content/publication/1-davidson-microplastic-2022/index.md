@@ -22,7 +22,7 @@ date: '2022-09-15'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-09-15'
+#publishDate: '2022-09-15'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -52,7 +52,7 @@ reading_time: false
 #   url: http://example.org
 
 url_pdf: uploads/Davidson_2022.pdf
-url_code: ''
+url_code: 'https://github.com/davidson-ben/Davidson-et-al-2022-code'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -72,14 +72,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+#projects:
+#  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 
 ---

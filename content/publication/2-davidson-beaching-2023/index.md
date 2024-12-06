@@ -19,7 +19,8 @@ date: '2023-09-26'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-09-26'
+#publishDate: '2023-09-26'
+
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -51,13 +52,15 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 
+reading_time: false
+
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
 url_pdf: uploads/Davidson_2023.pdf
-url_code: ''
+url_code: 'https://github.com/davidson-ben/davidson-et-al-2023-code'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -72,15 +75,14 @@ image:
   focal_point: ''
   preview_only: false
 
-  reading_time: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - beach
+#projects:
+#  - beach
 
 ---
 
