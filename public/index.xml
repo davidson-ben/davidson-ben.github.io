@@ -70,24 +70,6 @@
     </item>
     
     <item>
-      <title>Fabrication Fellowship</title>
-      <link>//localhost:1313/teaching_and_outreach/fab-fellow/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/teaching_and_outreach/fab-fellow/</guid>
-      <description>&lt;p&gt;Page Under Construction&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Introduction to Fluid Mechanics</title>
-      <link>//localhost:1313/teaching_and_outreach/cee-310/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/teaching_and_outreach/cee-310/</guid>
-      <description>&lt;p&gt;Page Under Construction&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Particles</title>
       <link>//localhost:1313/project/particles/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
@@ -105,6 +87,16 @@
     </item>
     
     <item>
+      <title>Fabrication Fellowship</title>
+      <link>//localhost:1313/teaching_and_outreach/fab-fellow/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching_and_outreach/fab-fellow/</guid>
+      <description>&lt;p&gt;Ben began the Fabrication Fellowship at the University of Wisconsin-Madison Design &amp;amp; Innovation (D&amp;amp;I) Lab in August 2023.  The D&amp;amp;I Lab is a campus makerspace equiped with a variety of design and prototyping tools.  As a Fabrication Fellow, Ben served as a student shop manager, overseeing undergraduate staff members and assisting users with their projects.&lt;/p&gt;
+&lt;p&gt;Ben oversaw all 3D printing activities in the lab.  The Design and Innovation Lab has over 30 3D printers (FDM, SLA, and SLS) and produces over 2,000 individual prints for campus users each semester.  In overseeing the 3D printing area, Ben was in charge of organizing student workers to maintain printers, help users, stock materials, and generally maintain the space.  Over Ben&amp;rsquo;s time working in the D&amp;amp;I Lab, he was a part of transitioning the fleet of printers to next generation models, optimizing the user experience, and overseeing the development of an automatic print queue system.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Young Coastal Scientist and Engineers Conference - Americas (YCSEC-A)</title>
       <link>//localhost:1313/post/ycseca/</link>
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
@@ -114,11 +106,12 @@
     </item>
     
     <item>
-      <title>Mathematical Modeling Outreach with MEHS</title>
+      <title>Mathematical Modeling Outreach with MEHS Students</title>
       <link>//localhost:1313/teaching_and_outreach/delta/</link>
       <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/teaching_and_outreach/delta/</guid>
-      <description>&lt;p&gt;In April 2024, Ben developed and hosted an outreach event between the Fluid Mechanics in Environmental Processes (FMEP) Group at UW-Madison and a group of high school students from Madison East High School (MEHS).  The event was focused around a live coding activity where students learned how to mathematically model plastic pollution on beaches in MATLAB.  The code files and original handout are &lt;a href=&#34;https://github.com/davidson-ben/mathematical_modeling_outreach_2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;In April 2024, Ben developed and hosted an outreach event between the Fluid Mechanics in Environmental Processes (FMEP) Group at UW-Madison and a group of high school students from Madison East High School (MEHS).  The event was focused around a live coding activity where students learned how to mathematically model plastic pollution on beaches using MATLAB.  The code files and original handout are &lt;a href=&#34;https://github.com/davidson-ben/mathematical_modeling_outreach_2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Developing and leading this outreach event was the final project for the Delta Certificate in Research, Teaching, and Learning.  Over the course of the semester, Ben worked on developing a literature informed activity to engage diverse students in learning to code.&lt;/p&gt;
 </description>
     </item>
     
@@ -137,6 +130,15 @@
       <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/publication/1-davidson-microplastic-2022/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>CEE 310: Introductory Fluid Mechanics</title>
+      <link>//localhost:1313/teaching_and_outreach/cee-310/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching_and_outreach/cee-310/</guid>
+      <description>&lt;p&gt;In Fall 2021 and Fall 2022, Ben served as a Teaching Assistant for the Civil &amp;amp; Environemntal Engineering course, &lt;em&gt;CEE 310: Introductory Fluid Mechanics&lt;/em&gt;.  Throughout the semester, Ben led weekly discussions to reinforce lecture material and supervised hands-on laboratory experiments.  These experiments provided students with practical experience, allowing them to apply the fluid mechanics pricipals they studied in lecures in a hands-on environment.&lt;/p&gt;
+</description>
     </item>
     
     <item>
