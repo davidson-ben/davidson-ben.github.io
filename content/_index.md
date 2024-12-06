@@ -34,8 +34,8 @@ sections:
   
   - block: markdown
     content:
-      title: My title
-      subtitle: My subtitle
+      title: Marine Debris in Coastal Environments
+      subtitle: ''
       text: Insert in-depth summary of research work...
     design:
       background:

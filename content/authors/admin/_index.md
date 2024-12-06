@@ -3,14 +3,14 @@
 title: Benjamin Davidson
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: (he/him)
 
 # Full name (for SEO)
 first_name: Benjamin
 last_name: Davidson
 
 # Status emoji
-status:
+status: 
   icon: 
 
 # Is this the primary user of the site?
