@@ -22,19 +22,19 @@
     </item>
     
     <item>
-      <title>Beach</title>
-      <link>//localhost:1313/project/beach/</link>
+      <title>Particles</title>
+      <link>//localhost:1313/project/particles/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/beach/</guid>
+      <guid>//localhost:1313/project/particles/</guid>
       <description>&lt;p&gt;Page Under Construction&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Particles</title>
-      <link>//localhost:1313/project/particles/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/particles/</guid>
+      <title>Wave Flume Beach</title>
+      <link>//localhost:1313/project/beach/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/beach/</guid>
       <description>&lt;p&gt;Page Under Construction&lt;/p&gt;
 </description>
     </item>
