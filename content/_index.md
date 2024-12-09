@@ -46,15 +46,12 @@ sections:
         ### Field Experiments
 
         I have previously conducted experiments on the beaches of Lake Superior, focusing on the accumulation and burial of microplasitcs in beach sediments.  Our [2022 study](publication/1-davidson-microplastic-2022/) showed that individual characteristics of a beach were not strong predictors of microplastic pollution.  Instead, the individual beaches sampled (with a combination of characteristics) significantly influence the prediction of microplastic pollution.  Due to the many competing factors in a field study, we decided to pivot to laboratory and modeling studies to gain foundational understanding of plastic/shoreline interactions.  I plan to return to field experiments in the future to achieve a holeistic understanding of microplastic pollution.
-      
 
         ### Laboratory Experiments
 
-        WSEL Flume and cite
+        We've also used laboratory wave flume and basin experiments to consider a more focused impact of specific characteristics on particle beaching.  Our 39 meter long wave flume at the Water Science and Engineering Lab at the University of Wisconsin-Madison has a custom built [beach](project/Beach/) which we have used in several beaching experiments, including those published [in Flow, in 2023](publication/1-davidson-microplastic-2022/).
 
-        Queens Basin (photo)
-
-        OSU Basin (photo?)
+        We have also conducted experiments in large scale wave basins at the Queen's University Coastal Engineering Laboratory and the Oregon State University Hinsdale Wave Research Laboratory.  In these large scale experiments, we have been able to explore the impact of wave directionality on plastic particle beaching.
 
         ### Computational Modeling
 
