@@ -1,7 +1,7 @@
 ---
 title: Mathematical Modeling Outreach with MEHS Students
 summary: Developed live coding activity for high school students to learn mathematical modeling.
-date: 2023-04-09
+date: 2024-04-09
 type: markdown
 image:
   caption: ''
