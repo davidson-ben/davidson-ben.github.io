@@ -13,7 +13,7 @@ share: false
 
 For experiments concerning plastic particle beaching, I have created a wide range of plastic particles in different sizes, shapes, and types. For various materials and particle characteristics, I have used various fabrication techniques, each of which offers distinct advantages and disadvantages.
 
-#### Tools used
+**Tools used**
 - CNC Router
 - Waterjet
 - Lasercutter

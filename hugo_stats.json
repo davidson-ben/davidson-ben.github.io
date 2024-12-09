@@ -36,6 +36,7 @@
       "script",
       "section",
       "span",
+      "strong",
       "style",
       "svg",
       "time",
@@ -412,7 +413,6 @@
       "rtl:-ml-4",
       "rtl:-rotate-180",
       "rtl:hidden",
-      "rtl:pr-4",
       "rtl:pr-8",
       "rtl:text-left",
       "scale-95",
@@ -502,7 +502,6 @@
       "z-30"
     ],
     "ids": [
-      "-cnc-router",
       "about-me",
       "computational-modeling",
       "field-experiments",

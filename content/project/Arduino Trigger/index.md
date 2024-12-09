@@ -17,7 +17,7 @@ I designed and built a system to synchronize and trigger cameras for experiments
 
 I also created an adapted version for use at the University of Wisconsin-Madison's Water Science and Engineering Laboratory wave flume. In addition to triggering the cameras, this version also synchronized the image capture with a data acquisition system, which captured wave height data from ultrasonic wave gauges and velocity data from Vectrino ADVs and ADV Profilers.
 
-#### Tools used
+**Tools used**
 - Arduino Uno and various components
 - Soldered components for final assembly
 - FMD 3D printing for enclosure

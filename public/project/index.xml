@@ -18,8 +18,14 @@
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/project/particles/</guid>
       <description>&lt;p&gt;For experiments concerning plastic particle beaching, I have created a wide range of plastic particles in different sizes, shapes, and types. For various materials and particle characteristics, I have used various fabrication techniques, each of which offers distinct advantages and disadvantages.&lt;/p&gt;
-&lt;h3 id=&#34;tools-used&#34;&gt;Tools used&lt;/h3&gt;
-&lt;p&gt;I have fabricated these particles using a CNC router, waterjet, laser cutter, and 3D printers.&lt;/p&gt;
+&lt;h4 id=&#34;tools-used&#34;&gt;Tools used&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;CNC Router&lt;/li&gt;
+&lt;li&gt;Waterjet&lt;/li&gt;
+&lt;li&gt;Lasercutter&lt;/li&gt;
+&lt;li&gt;FMD &amp;amp; SLA 3D Printers&lt;/li&gt;
+&lt;li&gt;Various hand tools for finishing&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -31,6 +37,12 @@
       <description>&lt;p&gt;&lt;em&gt;Page Under Construction: photo coming soon&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;I designed and built a system to synchronize and trigger cameras for experiments in the Queen&amp;rsquo;s University large wave basin. The system is centered around an Arduino, which receives a start trigger from the wave paddle, waits for a specified duration, and then produces a square wave at a specified frequency via a power supply and relay. This output signal triggers the cameras for image capture. Additionally, the trigger system uses LED indicators to show the system status and is housed within a 3D-printed enclosure.&lt;/p&gt;
 &lt;p&gt;I also created an adapted version for use at the University of Wisconsin-Madison&amp;rsquo;s Water Science and Engineering Laboratory wave flume. In addition to triggering the cameras, this version also synchronized the image capture with a data acquisition system, which captured wave height data from ultrasonic wave gauges and velocity data from Vectrino ADVs and ADV Profilers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tools used&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Arduino Uno and various components&lt;/li&gt;
+&lt;li&gt;Soldered components for final assembly&lt;/li&gt;
+&lt;li&gt;FMD 3D printing for enclosure&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -40,6 +52,14 @@
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/project/beach/</guid>
       <description>&lt;p&gt;During the fall of 2020, I designed and constructed a beach for the Water Science and Engineering Lab&amp;rsquo;s wave flume at the University of Wisconsin-Madison, intended for microplastic beaching experiments. The beach is built using 80/20 extruded aluminum T-slot frames, secured with a combination of standard and custom fasteners. The surface is made of 1/2&amp;quot; acrylic, attached to the frame and covered with white contact paper to create an opaque surface for imaging. Additionally, I designed a wooden frame to support two cameras above the beach surface for experimental imaging.&lt;/p&gt;
+&lt;h4 id=&#34;tools-used&#34;&gt;Tools used&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;8020 Framing System&lt;/li&gt;
+&lt;li&gt;Miter saw and drill press for custom brackets&lt;/li&gt;
+&lt;li&gt;Table saw for sizing and chamfering beach toe&lt;/li&gt;
+&lt;li&gt;Silicone seal for acrylic butt joints&lt;/li&gt;
+&lt;li&gt;Various hand tools for assembly and finishing&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
