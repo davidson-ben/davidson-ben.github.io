@@ -12,5 +12,4 @@ image:
   reading_time: false
 ---
 
-- Description of activity
-- Attach handout and MATLAB code?
+Ben organized an day of science outreach for local high school students focused around a mathematical modeling live coding activity.  Read more about this outreach event [here](/teaching_and_outreach/delta/).

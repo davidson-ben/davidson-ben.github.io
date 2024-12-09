@@ -5,7 +5,7 @@
     <link>//localhost:1313/project/</link>
       <atom:link href="//localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu3010647768737102974.png</url>
       <title>Projects</title>
@@ -13,20 +13,22 @@
     </image>
     
     <item>
-      <title>Arduino Trigger</title>
-      <link>//localhost:1313/project/arduino-trigger/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/arduino-trigger/</guid>
-      <description>&lt;p&gt;Page Under Construction&lt;/p&gt;
+      <title>Particles</title>
+      <link>//localhost:1313/project/particles/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/particles/</guid>
+      <description>&lt;p&gt;For experiments concerning plastic particle beaching, I have created a wide range of plastic particles in different sizes, shapes, and types. I have fabricated these particles using a CNC router, waterjet, laser cutter, and 3D printers. Each fabrication technique offers distinct advantages and disadvantages.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Particles</title>
-      <link>//localhost:1313/project/particles/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/particles/</guid>
-      <description>&lt;p&gt;Page Under Construction&lt;/p&gt;
+      <title>Arduino Camera Trigger</title>
+      <link>//localhost:1313/project/arduino-trigger/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/arduino-trigger/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Page Under Construction: photo coming soon&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I designed and built a system to synchronize and trigger cameras for experiments in the Queen&amp;rsquo;s University large wave basin. The system is centered around an Arduino, which receives a start trigger from the wave paddle, waits for a specified duration, and then produces a square wave at a specified frequency via a power supply and relay. This output signal triggers the cameras for image capture. Additionally, the trigger system uses LED indicators to show the system status and is housed within a 3D-printed enclosure.&lt;/p&gt;
+&lt;p&gt;I also created an adapted version for use at the University of Wisconsin-Madison&amp;rsquo;s Water Science and Engineering Laboratory wave flume. In addition to triggering the cameras, this version also synchronized the image capture with a data acquisition system, which captured wave height data from ultrasonic wave gauges and velocity data from Vectrino ADVs and ADV Profilers.&lt;/p&gt;
 </description>
     </item>
     
@@ -35,7 +37,7 @@
       <link>//localhost:1313/project/beach/</link>
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/project/beach/</guid>
-      <description>&lt;p&gt;Page Under Construction&lt;/p&gt;
+      <description>&lt;p&gt;During the fall of 2020, I designed and constructed a beach for the Water Science and Engineering Lab&amp;rsquo;s wave flume at the University of Wisconsin-Madison, intended for microplastic beaching experiments. The beach is built using 80/20 extruded aluminum T-slot frames, secured with a combination of standard and custom fasteners. The surface is made of 1/2&amp;quot; acrylic, attached to the frame and covered with white contact paper to create an opaque surface for imaging. Additionally, I designed a wooden frame to support two cameras above the beach surface for experimental imaging.&lt;/p&gt;
 </description>
     </item>
     
