@@ -3,7 +3,7 @@
 title: Benjamin Davidson
 
 # Name pronunciation (optional)
-name_pronunciation: (he/him)
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Benjamin
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Student [he/him]
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
