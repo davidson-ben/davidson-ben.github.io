@@ -49,9 +49,10 @@ sections:
 
         ### Laboratory Experiments
 
-        We've also used laboratory wave flume and basin experiments to consider a more focused impact of specific characteristics on particle beaching.  Our 39 meter long wave flume at the Water Science and Engineering Lab at the University of Wisconsin-Madison has a custom built [beach](project/Beach/) which we have used in several beaching experiments, including those published [in Flow, in 2023](publication/1-davidson-microplastic-2022/).
+        We&rsquo;ve also used laboratory wave flume and basin experiments to consider a more focused impact of specific characteristics on particle beaching.  Our 39 meter long wave flume at the Water Science and Engineering Lab at the University of Wisconsin-Madison has a custom built [beach](project/Beach/) which we have used in several beaching experiments, including those published [in Flow, in 2023](publication/1-davidson-microplastic-2022/).
 
-        We have also conducted experiments in large scale wave basins at the Queen's University Coastal Engineering Laboratory and the Oregon State University Hinsdale Wave Research Laboratory.  In these large scale experiments, we have been able to explore the impact of wave directionality on plastic particle beaching.
+
+        We have also conducted experiments in large scale wave basins at the Queen&rsquo;s University Coastal Engineering Laboratory and the Oregon State University Hinsdale Wave Research Laboratory.  In these large scale experiments, we have been able to explore the impact of wave directionality on plastic particle beaching.
 
         ### Computational Modeling
 
