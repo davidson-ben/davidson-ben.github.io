@@ -25,7 +25,7 @@ In marine environments, there is a discrepancy between the estimated amount of p
     <figcaption> Collecting sediment core on a Lake Superior beach.</figcaption>
 </figure>
 
-I have previously conducted experiments on the beaches of Lake Superior, focusing on the accumulation and burial of microplasitcs in beach sediments.  Our [2022 study](publication/1-davidson-microplastic-2022/) showed that individual characteristics of a beach were not strong predictors of microplastic pollution.  Instead, the combination of characteristics at individual beaches significantly influences the prediction of microplastic pollution.
+I have previously conducted experiments on the beaches of Lake Superior, focusing on the accumulation and burial of microplasitcs in beach sediments.  Our [2022 study](/publication/1-davidson-microplastic-2022/) showed that individual characteristics of a beach were not strong predictors of microplastic pollution.  Instead, the combination of characteristics at individual beaches significantly influences the prediction of microplastic pollution.
 
 ### Laboratory Experiments
 
@@ -36,7 +36,7 @@ I have previously conducted experiments on the beaches of Lake Superior, focusin
     <figcaption> The wave flume at the University of Wisconsin-Madison's Water Science and Engineering Laboratory. </figcaption>
 </figure>
 
-We use laboratory wave flume and basin experiments to consider the focused impact of specific characteristics on particle beaching.  Our 39-meter-long wave flume at the Water Science and Engineering Lab at the University of Wisconsin-Madison has a [custom-built beach](project/Beach/) which we have used in several beaching experiments, including those published [in Flow, in 2023](publication/1-davidson-microplastic-2022/).
+We use laboratory wave flume and basin experiments to consider the focused impact of specific characteristics on particle beaching.  Our 39-meter-long wave flume at the Water Science and Engineering Lab at the University of Wisconsin-Madison has a [custom-built beach](/project/Beach/) which we have used in several beaching experiments, including those published [in Flow, in 2023](publication/1-davidson-microplastic-2022/).
 
 
 <figure>
@@ -55,4 +55,4 @@ We have also conducted experiments in large scale wave basins at the Queen&rsquo
     <figcaption> Swash event model and experimental shoreline positions. </figcaption>
 </figure>
 
-In addition to field and lab experiments, we explore the nearshore processes of marine debris transport through computational modeling.  We started with a simple, [1 dimensional model](publication/2-davidson-beaching-2023/), and have expanded the model to 2 dimensions with oblique incident waves.
+In addition to field and lab experiments, we explore the nearshore processes of marine debris transport through computational modeling.  We started with a simple, [1 dimensional model](/publication/2-davidson-beaching-2023/), and have expanded the model to 2 dimensions with oblique incident waves.
