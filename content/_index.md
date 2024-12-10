@@ -31,10 +31,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  
-    design:
-      background:
-        color: ''
           
   - block: collection
     id: papers
