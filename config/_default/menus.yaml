@@ -7,14 +7,17 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Papers
-    url: /#papers
-    weight: 11
-  - name: News
-    url: /#news
-    weight: 13
-  - name: Education and Research
-    url: education_and_research/
+#  - name: Papers
+#    url: /#papers
+#    weight: 11
+#  - name: News
+#    url: /post/
+#    weight: 13
+  - name: Research
+    url: /research/
+    weight: 15
+  - name: Education and Experience
+    url: education_and_experience/
     weight: 20
   - name: Teaching and Outreach
     url: teaching_and_outreach/

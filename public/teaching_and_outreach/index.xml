@@ -5,12 +5,22 @@
     <link>//localhost:1313/teaching_and_outreach/</link>
       <atom:link href="//localhost:1313/teaching_and_outreach/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching and Outreach</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu3010647768737102974.png</url>
       <title>Teaching and Outreach</title>
       <link>//localhost:1313/teaching_and_outreach/</link>
     </image>
+    
+    <item>
+      <title>Mathematical Modeling Outreach with MEHS Students</title>
+      <link>//localhost:1313/teaching_and_outreach/delta/</link>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching_and_outreach/delta/</guid>
+      <description>&lt;p&gt;In April 2024, Ben developed and hosted an outreach event between the Fluid Mechanics in Environmental Processes (FMEP) Group at UW-Madison and a group of high school students from Madison East High School (MEHS).  The event was focused around a live coding activity where students learned how to mathematically model plastic pollution on beaches using MATLAB.  The code files and original handout are &lt;a href=&#34;https://github.com/davidson-ben/mathematical_modeling_outreach_2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Developing and leading this outreach event was the final project for the Delta Certificate in Research, Teaching, and Learning.  Over the course of the semester, Ben worked on developing a literature informed activity to engage diverse students in learning to code.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Fabrication Fellowship</title>
@@ -19,16 +29,6 @@
       <guid>//localhost:1313/teaching_and_outreach/fab-fellow/</guid>
       <description>&lt;p&gt;Ben began the Fabrication Fellowship at the University of Wisconsin-Madison Design &amp;amp; Innovation (D&amp;amp;I) Lab in August 2023.  The D&amp;amp;I Lab is a campus makerspace equiped with a variety of design and prototyping tools.  As a Fabrication Fellow, Ben served as a student shop manager, overseeing undergraduate staff members and assisting users with their projects.&lt;/p&gt;
 &lt;p&gt;Ben oversaw all 3D printing activities in the lab.  The D&amp;amp;I Lab houses over 30 3D printers (FDM, SLA, and SLS) and produces over 2,000 individual prints for campus users each semester.  In managing the 3D printing area, Ben organized student workers to maintain printers, assist users, stock materials, and ensure the smooth operation of the space.  Ben also played a key role in transitioning the fleet of printers to next-generation models, optimizing the user experience, and helping to oversee the development of an automatic print queue system.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mathematical Modeling Outreach with MEHS Students</title>
-      <link>//localhost:1313/teaching_and_outreach/delta/</link>
-      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/teaching_and_outreach/delta/</guid>
-      <description>&lt;p&gt;In April 2024, Ben developed and hosted an outreach event between the Fluid Mechanics in Environmental Processes (FMEP) Group at UW-Madison and a group of high school students from Madison East High School (MEHS).  The event was focused around a live coding activity where students learned how to mathematically model plastic pollution on beaches using MATLAB.  The code files and original handout are &lt;a href=&#34;https://github.com/davidson-ben/mathematical_modeling_outreach_2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Developing and leading this outreach event was the final project for the Delta Certificate in Research, Teaching, and Learning.  Over the course of the semester, Ben worked on developing a literature informed activity to engage diverse students in learning to code.&lt;/p&gt;
 </description>
     </item>
     
