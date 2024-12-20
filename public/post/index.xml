@@ -41,6 +41,15 @@
     </item>
     
     <item>
+      <title>Research in the news</title>
+      <link>//localhost:1313/post/boreal/</link>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/boreal/</guid>
+      <description>&lt;p&gt;Greg Seitz of &lt;a href=&#34;https://www.boreal.org/2023/12/13/475686/microplastics-pose-big-problems-for-lake-superiors-beaches&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boreal Community Media wrote a story&lt;/a&gt; about our &lt;a href=&#34;//localhost:1313/publication/1-davidson-microplastic-2022/&#34;&gt;2022 publication&lt;/a&gt; regarding microplasitc pollution on the beaches of Lake Superior.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Young Coastal Scientist and Engineers Conference - Americas (YCSEC-A)</title>
       <link>//localhost:1313/post/ycseca/</link>
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
