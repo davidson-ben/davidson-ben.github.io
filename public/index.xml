@@ -40,6 +40,15 @@
     </item>
     
     <item>
+      <title>Delta Certificate</title>
+      <link>//localhost:1313/teaching_and_outreach/certificate/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching_and_outreach/certificate/</guid>
+      <description>&lt;p&gt;Page Under Construction&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Arduino Camera Trigger</title>
       <link>//localhost:1313/project/arduino-trigger/</link>
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
@@ -70,7 +79,7 @@
       <link>//localhost:1313/teaching_and_outreach/delta/</link>
       <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/teaching_and_outreach/delta/</guid>
-      <description>&lt;p&gt;In April 2024, Ben developed and hosted an outreach event between the Fluid Mechanics in Environmental Processes (FMEP) Group at UW-Madison and a group of high school students from Madison East High School (MEHS).  The event was focused around a live coding activity where students learned how to mathematically model plastic pollution on beaches using MATLAB.  The code files and original handout are &lt;a href=&#34;https://github.com/davidson-ben/mathematical_modeling_outreach_2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;In April 2024, Ben developed and hosted an outreach event between the Fluid Mechanics in Environmental Processes (FMEP) Group at UW-Madison and a group of high school students from Madison East High School (MEHS).  The event was focused around a live coding activity where students learned how to mathematically model plastic pollution on beaches using MATLAB.  The code files and original handout are &lt;a href=&#34;https://github.com/davidson-ben/mathematical_modeling_outreach_2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available on github&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Developing and leading this outreach event was the final project for the Delta Certificate in Research, Teaching, and Learning.  Over the course of the semester, Ben worked on developing a literature informed activity to engage diverse students in learning to code.&lt;/p&gt;
 </description>
     </item>
@@ -178,7 +187,24 @@
       <link>//localhost:1313/teaching_and_outreach/mentoring/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/teaching_and_outreach/mentoring/</guid>
-      <description>&lt;p&gt;Page Under Construction&lt;/p&gt;
+      <description>&lt;p&gt;Under Construction&lt;/p&gt;
+&lt;p&gt;Summary&lt;/p&gt;
+&lt;h3 id=&#34;microplastics-on-beaches-in-lake-superior&#34;&gt;Microplastics on Beaches in Lake Superior&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Kallyn Batista&lt;/strong&gt; (Spring/Summer 2021): Kallyn assisted with setting up and conducting field experiments to collect sand samples from Lake Superior.  Additionally, Kallyn played a significant role in performing the microplastic separation procedures.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sabeel Samrah&lt;/strong&gt; (Fall 2021 - Summer 2022): Sabeel assisted in identifying and counting microplastic particles from processed samples. Additionally, Sabeel processed raw beach sand and analyzed the sediment characteristics.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Achievements:&lt;/strong&gt; Kallyn and Sabeel both presented in the campus undergraduate research symposium.  This research project, including the contributions of both Kallyn and Sabeel, was &lt;a href=&#34;//localhost:1313/publication/1-davidson-microplastic-2022&#34;&gt;published in 2022&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;marine-debris-modeling-and-experiments&#34;&gt;Marine Debris Modeling and Experiments&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Jamie Brenner&lt;/strong&gt; (Fall 2022 - Summer 2023): Jamie contributed to developing the 1D and 2D swash zone models for buoyant marine debris and further assisted with laboratory experiments at Queen&amp;rsquo;s University&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ethan Steichen&lt;/strong&gt; (Summer 2024): Ethan assisted with the laboratory experiments at Queen&amp;rsquo;s University.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Achievements:&lt;/strong&gt; Jamie presented a poster on the 2D beaching model at the 2023 Young Coastal Scientists and Engineers Conference - Americas.  Additionally, the 1D swash zone marine debris model was  &lt;a href=&#34;//localhost:1313/publication/2-davidson-beaching-2023&#34;&gt;published in 2023&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;marine-debris-fragmentation&#34;&gt;Marine Debris Fragmentation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Evan Pittam&lt;/strong&gt; (Summer/Fall 2024): Description&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

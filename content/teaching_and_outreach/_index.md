@@ -14,6 +14,7 @@ sections:
     id: teaching_and_outreach
     content:
       title: Teaching and Outreach
+      count: 10
       filters:
         folders:
           - teaching_and_outreach
