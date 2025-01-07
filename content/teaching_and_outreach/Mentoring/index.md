@@ -1,7 +1,7 @@
 ---
 title: 'Undergraduate Mentoring'
-summary: 'Page Under Construction'
-date: 2021-06-01
+summary: 'Mentored undergraduate students through research projects'
+date: 2024-07-06
 type: markdown
 image:
   caption: ''
@@ -11,9 +11,7 @@ reading_time: false
 share: false
 ---
 
-Under Construction
-
-Summary
+Across several of my own research proejcts, I have had the opportunity to involve undergraduate students in my work.  In this way, I have been able to provide a critical learning experience for undergraduate students interested in resarch.  In conjunction with the students involved in my work, I have also taken a research mentor training as part of my [Delta Certificate in Teaching, Learning and Research]().
 
 ### Microplastics on Beaches in Lake Superior
 - **Kallyn Batista** (Spring/Summer 2021): Kallyn assisted with setting up and conducting field experiments to collect sand samples from Lake Superior.  Additionally, Kallyn played a significant role in performing the microplastic separation procedures.
@@ -25,5 +23,5 @@ Summary
 - **Ethan Steichen** (Summer 2024): Ethan assisted with the laboratory experiments at Queen's University.
 - **Achievements:** Jamie presented a poster on the 2D beaching model at the 2023 Young Coastal Scientists and Engineers Conference - Americas.  Additionally, the 1D swash zone marine debris model was  [published in 2023](/publication/2-davidson-beaching-2023).
 
-### Marine Debris Fragmentation
-- **Evan Pittam** (Summer/Fall 2024): Description
+<!-- Marine Debris Fragmentation -->
+<!-- Evan Pittam (Summer/Gall 2024) -->

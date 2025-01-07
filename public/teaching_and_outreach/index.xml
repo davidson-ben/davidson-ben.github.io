@@ -22,6 +22,28 @@
     </item>
     
     <item>
+      <title>Undergraduate Mentoring</title>
+      <link>//localhost:1313/teaching_and_outreach/mentoring/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching_and_outreach/mentoring/</guid>
+      <description>&lt;p&gt;Across several of my own research proejcts, I have had the opportunity to involve undergraduate students in my work.  In this way, I have been able to provide a critical learning experience for undergraduate students interested in resarch.  In conjunction with the students involved in my work, I have also taken a research mentor training as part of my &lt;a href=&#34;&#34;&gt;Delta Certificate in Teaching, Learning and Research&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;microplastics-on-beaches-in-lake-superior&#34;&gt;Microplastics on Beaches in Lake Superior&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Kallyn Batista&lt;/strong&gt; (Spring/Summer 2021): Kallyn assisted with setting up and conducting field experiments to collect sand samples from Lake Superior.  Additionally, Kallyn played a significant role in performing the microplastic separation procedures.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sabeel Samrah&lt;/strong&gt; (Fall 2021 - Summer 2022): Sabeel assisted in identifying and counting microplastic particles from processed samples. Additionally, Sabeel processed raw beach sand and analyzed the sediment characteristics.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Achievements:&lt;/strong&gt; Kallyn and Sabeel both presented in the campus undergraduate research symposium.  This research project, including the contributions of both Kallyn and Sabeel, was &lt;a href=&#34;//localhost:1313/publication/1-davidson-microplastic-2022&#34;&gt;published in 2022&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;marine-debris-modeling-and-experiments&#34;&gt;Marine Debris Modeling and Experiments&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Jamie Brenner&lt;/strong&gt; (Fall 2022 - Summer 2023): Jamie contributed to developing the 1D and 2D swash zone models for buoyant marine debris and further assisted with laboratory experiments at Queen&amp;rsquo;s University&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ethan Steichen&lt;/strong&gt; (Summer 2024): Ethan assisted with the laboratory experiments at Queen&amp;rsquo;s University.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Achievements:&lt;/strong&gt; Jamie presented a poster on the 2D beaching model at the 2023 Young Coastal Scientists and Engineers Conference - Americas.  Additionally, the 1D swash zone marine debris model was  &lt;a href=&#34;//localhost:1313/publication/2-davidson-beaching-2023&#34;&gt;published in 2023&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- Marine Debris Fragmentation --&gt;
+&lt;!-- Evan Pittam (Summer/Gall 2024) --&gt;</description>
+    </item>
+    
+    <item>
       <title>Mathematical Modeling Outreach with MEHS Students</title>
       <link>//localhost:1313/teaching_and_outreach/delta/</link>
       <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
@@ -57,32 +79,6 @@
       <guid>//localhost:1313/teaching_and_outreach/gpu/</guid>
       <description>&lt;p&gt;Page under construction.&lt;/p&gt;
 &lt;p&gt;Each summer we join the Wisconsin Sea Grant participation with &lt;a href=&#34;https://uwalumni.com/grandparents-university/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grandparents University&lt;/a&gt; at the University of Wisconsin-Madison.  Through this program, we host elementary and middle school aged students and their grandparents in our lab to explore the topics of waves and microplasitc pollution.  Ben has led the lab tour and wave demonstrations in the summers of 2022 and 2023.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Undergraduate Mentoring</title>
-      <link>//localhost:1313/teaching_and_outreach/mentoring/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/teaching_and_outreach/mentoring/</guid>
-      <description>&lt;p&gt;Under Construction&lt;/p&gt;
-&lt;p&gt;Summary&lt;/p&gt;
-&lt;h3 id=&#34;microplastics-on-beaches-in-lake-superior&#34;&gt;Microplastics on Beaches in Lake Superior&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Kallyn Batista&lt;/strong&gt; (Spring/Summer 2021): Kallyn assisted with setting up and conducting field experiments to collect sand samples from Lake Superior.  Additionally, Kallyn played a significant role in performing the microplastic separation procedures.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sabeel Samrah&lt;/strong&gt; (Fall 2021 - Summer 2022): Sabeel assisted in identifying and counting microplastic particles from processed samples. Additionally, Sabeel processed raw beach sand and analyzed the sediment characteristics.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Achievements:&lt;/strong&gt; Kallyn and Sabeel both presented in the campus undergraduate research symposium.  This research project, including the contributions of both Kallyn and Sabeel, was &lt;a href=&#34;//localhost:1313/publication/1-davidson-microplastic-2022&#34;&gt;published in 2022&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;marine-debris-modeling-and-experiments&#34;&gt;Marine Debris Modeling and Experiments&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Jamie Brenner&lt;/strong&gt; (Fall 2022 - Summer 2023): Jamie contributed to developing the 1D and 2D swash zone models for buoyant marine debris and further assisted with laboratory experiments at Queen&amp;rsquo;s University&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Ethan Steichen&lt;/strong&gt; (Summer 2024): Ethan assisted with the laboratory experiments at Queen&amp;rsquo;s University.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Achievements:&lt;/strong&gt; Jamie presented a poster on the 2D beaching model at the 2023 Young Coastal Scientists and Engineers Conference - Americas.  Additionally, the 1D swash zone marine debris model was  &lt;a href=&#34;//localhost:1313/publication/2-davidson-beaching-2023&#34;&gt;published in 2023&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;marine-debris-fragmentation&#34;&gt;Marine Debris Fragmentation&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Evan Pittam&lt;/strong&gt; (Summer/Fall 2024): Description&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
