@@ -11,7 +11,7 @@ reading_time: false
 share: false
 ---
 
-Across several of my own research proejcts, I have had the opportunity to involve undergraduate students in my work.  In this way, I have been able to provide a critical learning experience for undergraduate students interested in resarch.  In conjunction with the students involved in my work, I have also taken a research mentor training as part of my [Delta Certificate in Teaching, Learning and Research]().
+Across several of my research proejcts, I have had the opportunity to involve undergraduate students in my work.  This involvement has allowed me to provide a critical learning experience for students interested in research.  Additionally, I have completed research mentor training as part of my [Delta Certificate in Teaching, Learning and Research,](/teaching_and_outreach/certificate/) further enhancing my ability to support and guide these students.
 
 ### Microplastics on Beaches in Lake Superior
 - **Kallyn Batista** (Spring/Summer 2021): Kallyn assisted with setting up and conducting field experiments to collect sand samples from Lake Superior.  Additionally, Kallyn played a significant role in performing the microplastic separation procedures.
