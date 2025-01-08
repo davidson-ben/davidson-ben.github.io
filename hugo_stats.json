@@ -505,7 +505,10 @@
     "ids": [
       "about-me",
       "computational-modeling",
+      "courses",
+      "delta-courses",
       "field-experiments",
+      "final-project",
       "hide-button",
       "laboratory-experiments",
       "marine-debris-modeling-and-experiments",
