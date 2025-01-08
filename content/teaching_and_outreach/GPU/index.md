@@ -1,6 +1,6 @@
 ---
 title: 'Grandparents University'
-summary: 'page under construction'
+summary: 'Outreach with Wisconsin Sea Grant'
 date: 2022-07-21
 type: markdown
 image:

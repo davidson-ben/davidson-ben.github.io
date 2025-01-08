@@ -1,6 +1,6 @@
 ---
 title: 'Delta Certificate'
-summary: 'Page Under Construction'
+summary: 'Certificate in Research, Teaching, and Learning'
 date: 2024-08-30
 type: markdown
 image:
