@@ -17,7 +17,7 @@ In August 2024, Ben completed the requirements for the *Delta Certificate in Res
 - Research Mentor Training
 - Emerging Technologies and Accelerating Change: Preparing for tomorrow's college classroom
 - Improv to Improve Science Communication and Teaching
-- Internship Seminar
+- Workshop in Educational Leadership and Policy Analysis
 
 ## Final Project
 [For the final project](/teaching_and_outreach/delta/), Ben developed an outreach activity for local high school students to learn about plastic ocean pollution through a hands on coding activity.
