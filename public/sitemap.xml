@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/teaching_and_outreach/</loc>
+    <lastmod>2025-02-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>//localhost:1313/research/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -27,10 +31,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>//localhost:1313/teaching_and_outreach/certificate/</loc>
-    <lastmod>2024-08-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/teaching_and_outreach/</loc>
     <lastmod>2024-08-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
