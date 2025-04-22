@@ -21,3 +21,11 @@ In August 2024, Ben completed the requirements for the *Delta Certificate in Res
 
 ## Final Project
 [For the final project](/teaching_and_outreach/delta/), Ben developed an outreach activity for local high school students to learn about plastic ocean pollution through a hands on coding activity.
+
+## Delta Teaching & Learning Practitioner
+The completion of the Delta Internship program and Delta Certificate is verified through the Delta T&L Practioner badge below.  This badge represents a commitment to evidence-based teaching practices across diverse learning environments.
+
+<iframe src="https://api.badgr.io/public/assertions/mCFDWBvsR-utZ6qO-cf6nA?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=ben.davidson%40wisc.edu" 
+        title="Badge: Delta Teaching &amp; Learning Practitioner" 
+        style="width: 100%; height: 191px; border: 0px;">
+</iframe>

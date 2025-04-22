@@ -7,10 +7,20 @@
     <description>Teaching and Outreach</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/media/icon_hu3010647768737102974.png</url>
+      <url>//localhost:1313/media/icon_hu_bd018fb7574b0b10.png</url>
       <title>Teaching and Outreach</title>
       <link>//localhost:1313/teaching_and_outreach/</link>
     </image>
+    
+    <item>
+      <title>High School Teacher Collaboration</title>
+      <link>//localhost:1313/teaching_and_outreach/hs-teacher/</link>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching_and_outreach/hs-teacher/</guid>
+      <description>&lt;p&gt;A local Madison East High School physics teacher, Jen Winesett, joined our research team at at the Queen&amp;rsquo;s University wave basin for experiments in the summer of 2024.  Jen worked with us and got to experience all that the research experiments had to offer while also gaining an experience that she could take back to her students.  Jen developed a special lesson for her students based upon the work she did with us which pertained to waves washing up on beaches.  In preparation for the classroom activity, Ben and Hyungyu Sung (another PhD student) co-wrote a supplementary reading to prepare the students on the concepts of waves, surf/swash zones, and the applications of sediment transport and plastic debris fate.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Link to PDF&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Delta Certificate</title>
@@ -27,7 +37,12 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;final-project&#34;&gt;Final Project&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;//localhost:1313/teaching_and_outreach/delta/&#34;&gt;For the final project&lt;/a&gt;, Ben developed an outreach activity for local high school students to learn about plastic ocean pollution through a hands on coding activity.&lt;/p&gt;
-</description>
+&lt;h2 id=&#34;delta-teaching--learning-practitioner&#34;&gt;Delta Teaching &amp;amp; Learning Practitioner&lt;/h2&gt;
+&lt;p&gt;The completion of the Delta Internship program and Delta Certificate is verified through the Delta T&amp;amp;L Practioner badge below.  This badge represents a commitment to evidence-based teaching practices across diverse learning environments.&lt;/p&gt;
+&lt;iframe src=&#34;https://api.badgr.io/public/assertions/mCFDWBvsR-utZ6qO-cf6nA?embedVersion=1&amp;amp;embedWidth=330&amp;amp;embedHeight=191&amp;amp;identity__email=ben.davidson%40wisc.edu&#34; 
+        title=&#34;Badge: Delta Teaching &amp;amp; Learning Practitioner&#34; 
+        style=&#34;width: 100%; height: 191px; border: 0px;&#34;&gt;
+&lt;/iframe&gt;</description>
     </item>
     
     <item>
