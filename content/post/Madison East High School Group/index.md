@@ -9,7 +9,7 @@ tags:
 image:
   caption: ''
 
-  reading_time: false
+reading_time: false
 ---
 
 Ben organized an day of science outreach for local high school students focused around a mathematical modeling live coding activity.  Read more about this outreach event [here](/teaching_and_outreach/delta/).
