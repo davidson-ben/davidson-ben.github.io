@@ -5,12 +5,21 @@
     <link>//localhost:1313/post/</link>
       <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Featured News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu_bd018fb7574b0b10.png</url>
       <title>Featured News</title>
       <link>//localhost:1313/post/</link>
     </image>
+    
+    <item>
+      <title>My Green Lab Certification</title>
+      <link>//localhost:1313/post/green-lab/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/green-lab/</guid>
+      <description>&lt;p&gt;Ben led a year-long initiative by Dr. Pujara&amp;rsquo;s FMEP group in collaboration with the UW-Madison Office of Sustainability to certify the lab through the My Green Lab program.  By the end of the year, the lab earned &lt;strong&gt;Gold Certification,&lt;/strong&gt; recognizing its ongoing commitment to environmental responsibility in research practices and beyond.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Weston Roundtable Lecture Series: Speaker Benjamin Davidson</title>

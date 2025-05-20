@@ -2,8 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/teaching_and_outreach/hs-teacher/</loc>
-    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/project/3d-print-filament-tracking/</loc>
+    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/project/</loc>
+    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>//localhost:1313/teaching_and_outreach/</loc>
@@ -19,10 +23,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>//localhost:1313/project/particles/</loc>
-    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/project/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

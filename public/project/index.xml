@@ -5,12 +5,26 @@
     <link>//localhost:1313/project/</link>
       <atom:link href="//localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu_bd018fb7574b0b10.png</url>
       <title>Projects</title>
       <link>//localhost:1313/project/</link>
     </image>
+    
+    <item>
+      <title>3D Print Filament Tracking</title>
+      <link>//localhost:1313/project/3d-print-filament-tracking/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/3d-print-filament-tracking/</guid>
+      <description>&lt;p&gt;Page under construction.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tools used&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a&lt;/li&gt;
+&lt;li&gt;b&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Particles</title>
