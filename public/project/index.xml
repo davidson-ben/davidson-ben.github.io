@@ -13,15 +13,20 @@
     </image>
     
     <item>
-      <title>3D Print Filament Tracking</title>
+      <title>3D Print Filament Inventory Tracking</title>
       <link>//localhost:1313/project/3d-print-filament-tracking/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/project/3d-print-filament-tracking/</guid>
-      <description>&lt;p&gt;Page under construction.&lt;/p&gt;
+      <description>&lt;p&gt;This project involved the design and fabrication of a custom inventory tracking system for 3D printer filament used in the UW–Madison Design Innovation Lab. The system enables real-time monitoring of filament stock by integrating load cell sensors into filament storage shelves, helping lab staff maintain supply levels and streamline the re-ordering process.&lt;/p&gt;
+&lt;p&gt;The device consists of custom-cut shelving units embedded with digital scales to measure filament spool weights. When stock falls below a preset threshold, the system sends a notification to prompt restocking. All components—including the shelf structure and electronic enclosure—were designed and fabricated in-house. Fabrication involved the use of saws and sanders for the shelves and 3D printing for custom enclosures.&lt;/p&gt;
+&lt;p&gt;The project utilized microcontrollers to interface with load cells and collect weight data, which is transmitted to a web-based monitoring interface. While another graduate student contributed to the web integration, all physical design, fabrication, and embedded electronics work was completed independently.&lt;/p&gt;
+&lt;p&gt;This project was completed over the course of a semester as part of ongoing efforts to improve operational efficiency within the makerspace.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tools used&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;a&lt;/li&gt;
-&lt;li&gt;b&lt;/li&gt;
+&lt;li&gt;Machine Shop (table saw and sander)&lt;/li&gt;
+&lt;li&gt;3D Printing (FDM)&lt;/li&gt;
+&lt;li&gt;Microcontrollers and load cells&lt;/li&gt;
+&lt;li&gt;Soldering and electronics assembly&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
