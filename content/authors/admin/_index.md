@@ -44,8 +44,8 @@ profiles:
 
 interests:
   - Swash Zone Processes
-  - Microplastic Pollution
-  - Microplastic Beaching
+  - Plastic Pollution
+  - Debris Beaching
   - Science Communication
   - Science Outreach
 
