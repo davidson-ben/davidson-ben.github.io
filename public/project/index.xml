@@ -5,9 +5,9 @@
     <link>//localhost:1313/project/</link>
       <atom:link href="//localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/media/icon_hu_bd018fb7574b0b10.png</url>
+      <url>//localhost:1313/media/icon_hu3010647768737102974.png</url>
       <title>Projects</title>
       <link>//localhost:1313/project/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>3D Print Filament Inventory Tracking</title>
       <link>//localhost:1313/project/3d-print-filament-tracking/</link>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/project/3d-print-filament-tracking/</guid>
       <description>&lt;p&gt;This project involved the design and fabrication of a custom inventory tracking system for 3D printer filament used in the UW–Madison Design Innovation Lab. The system enables real-time monitoring of filament stock by integrating load cell sensors into filament storage shelves, helping lab staff maintain supply levels and streamline the re-ordering process.&lt;/p&gt;
 &lt;p&gt;The device consists of custom-cut shelving units embedded with digital scales to measure filament spool weights. When stock falls below a preset threshold, the system sends a notification to prompt restocking. All components—including the shelf structure and electronic enclosure—were designed and fabricated in-house. Fabrication involved the use of saws and sanders for the shelves and 3D printing for custom enclosures.&lt;/p&gt;
