@@ -5,12 +5,25 @@
     <link>//localhost:1313/post/</link>
       <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Featured News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu3010647768737102974.png</url>
       <title>Featured News</title>
       <link>//localhost:1313/post/</link>
     </image>
+    
+    <item>
+      <title>CoPartCoFlow Summer School in France</title>
+      <link>//localhost:1313/post/copartcoflow/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/copartcoflow/</guid>
+      <description>&lt;p&gt;In June 2025, I had the opportunity to participate in the CoPartCoFlow summer school, held in La londe les Maures, France. The week-long program focused on complex particles in complex flows and brought together researchers from across disciplines to explore the behavior, modeling, and measurement of particle-laden flows in environmental settings.&lt;/p&gt;
+&lt;p&gt;The format combined lectures from leading scientists, poster sessions, and hands-on components that encouraged collaboration and discussion. Topics ranged from particle dynamics and turbulent transport to modeling approaches and experimental techniques.&lt;/p&gt;
+&lt;p&gt;As part of the program, I presented my ongoing research on the flow and transport of debris and contaminants in the swash zone. This work investigates how plastic pollution or solute contamination move throughout the coastal zone, in a highly unsteady and spatially variable environment.&lt;/p&gt;
+&lt;p&gt;Beyond the technical content, it was a truly rewarding experience to meet other early-career researchers and engage with experts whose work I have long admired. The conversations and connections formed during the week have already influenced my thinking and opened the door to future collaboration.&lt;/p&gt;
+&lt;p&gt;Many thanks to the organizers and instructors who made the week so valuable, and to all the participants for fostering such a collegial and stimulating environment.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>My Green Lab Certification</title>
