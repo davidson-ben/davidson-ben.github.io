@@ -6,7 +6,7 @@ type: markdown
 image:
   caption: ''
   focal_point: ''
-  preview_only: true
+  preview_only: false
 reading_time: false
 share: false
 ---
