@@ -193,7 +193,7 @@ awards:
     awarder: University of Wisconsin - Madison, Department of Civil & Environmental Engineering
     icon: ''
     summary: |
-      Received the _Becker Travel Award_ from the Civil and Environmental Engineering Department at the University of Wisconsin-Madison to attend APS-DFD in 2022, IAGLR Annual Meeting in 2023, and YCSECA in 2024.
+      Received the _Becker Travel Award_ from the Civil and Environmental Engineering Department at the University of Wisconsin-Madison to attend APS-DFD in 2022, IAGLR Annual Meeting in 2023, YCSEC-A in 2024, and CoPartCoFlow in 2025.
   - title: Student Research Grants Competition
     url: ''
     date: '2024-02-01'
@@ -201,6 +201,13 @@ awards:
     icon: ''
     summary: |
       Twice received the _Student Research Grants Competition Award_ from the University of Wisconsin-Madison.  In 2023, an award of $1,500 was received to conduct debris beaching experiments at the Queen's University wave basin in Kingston, Ontario.  In 2024, an award of $1,500 was received to travel to and present at the AGU Ocean Sciences Meeting.
+  - title: IAGLR Student Travel Award
+    url: ''
+    date: '2023-05-08'
+    awarder: IAGLR
+    icon: ''
+    summary: |
+      Received student travel award to attend the International Association of Great Lakes Research annual meeting.
   - title: Anna Grant Birge Scholarship
     url: ''
     date: '2021-05-01'
@@ -222,6 +229,20 @@ awards:
     icon: ''
     summary: |
       Inducted into Phi Beta Kappa, academic honor society.
+  - title: Sigma Pi Sigma
+    url: ''
+    date: '2018-05-01'
+    awarder: Luther College
+    icon: ''
+    summary: |
+      Inducted into Sigma Pi Sigma, physics honor society.
+  - title: Pi Mu Epsilon
+    url: ''
+    date: '2018-05-01'
+    awarder: Luther College
+    icon: ''
+    summary: |
+      Inducted into Pi Mu Epsilon, mathematics honor society.
 ---
 
 ## About Me
