@@ -226,4 +226,4 @@ awards:
 
 ## About Me
 
-Ben is a PhD student in Civil & Environmental Engineering (with a minor in Mechanical Engineering) at the University of Wisconsin-Madison.  In 2020, Ben received his BA in physics from Luther College in Decorah, IA.  His research focuses on plastic and microplastic pollution at coastal boundaries.  He uses lab experiments, field experiments, and computational modeling to understand the fate and transport of plastics on beaches.
+Ben is a PhD candidate in Civil & Environmental Engineering (with a minor in Mechanical Engineering) at the University of Wisconsin-Madison.  In 2020, Ben received his BA in physics from Luther College in Decorah, IA.  His research focuses on plastic and microplastic pollution at coastal boundaries.  He uses lab experiments, field experiments, and computational modeling to understand the fate and transport of plastics on beaches.  In 2024, Ben completed the Delta Certificate in Research, Teaching, and Learning from the University of Wisconsin - Madison, demonstrating his dedication to science communication, outreach, and teaching.
