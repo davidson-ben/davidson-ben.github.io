@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hidden | Benjamin Davidson</title>
+    <link>//localhost:1313/tags/hidden/</link>
+      <atom:link href="//localhost:1313/tags/hidden/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hidden</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu983eadde9919e866383dcdc4b813b081_93387_512x512_fill_lanczos_center_3.png</url>
+      <title>Hidden</title>
+      <link>//localhost:1313/tags/hidden/</link>
+    </image>
+    
+    <item>
+      <title>Arduino Fundamentals</title>
+      <link>//localhost:1313/teaching_and_outreach/arduino_fundamentals/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching_and_outreach/arduino_fundamentals/</guid>
+      <description>&lt;p&gt;pdf download of lesson handout&lt;/p&gt;
+&lt;p&gt;link to four tinkercad examples&lt;/p&gt;
+&lt;p&gt;link to Arduino&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

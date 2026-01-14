@@ -13,6 +13,17 @@
     </image>
     
     <item>
+      <title>Arduino Fundamentals</title>
+      <link>//localhost:1313/arduino_fundamentals/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/arduino_fundamentals/</guid>
+      <description>&lt;p&gt;pdf download of lesson handout&lt;/p&gt;
+&lt;p&gt;link to four tinkercad examples&lt;/p&gt;
+&lt;p&gt;link to Arduino&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>CoPartCoFlow Summer School in France</title>
       <link>//localhost:1313/post/copartcoflow/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
