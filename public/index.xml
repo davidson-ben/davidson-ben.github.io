@@ -17,9 +17,22 @@
       <link>//localhost:1313/arduino_fundamentals/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/arduino_fundamentals/</guid>
-      <description>&lt;p&gt;pdf download of lesson handout&lt;/p&gt;
-&lt;p&gt;link to four tinkercad examples&lt;/p&gt;
-&lt;p&gt;link to Arduino&lt;/p&gt;
+      <description>&lt;h2 id=&#34;tinkercad-examples&#34;&gt;Tinkercad Examples&lt;/h2&gt;
+&lt;p&gt;Use these links to view and simulate the circuits online.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.tinkercad.com/things/3MliuA9aIqD-stoplight-example-1?sharecode=GEmMnjYAOd8s6j1jJItvRZY3t-eTZjmNYTnNjwhrI_Q&#34;&gt;Example 1&lt;/a&gt;&lt;/strong&gt; – Digital Output&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.tinkercad.com/things/5IAoVI0yLOT-stoplight-example-2?sharecode=LPnXxkeoQM7oeczZw6M8OelkhIL3tjQuscEHXAxWspE&#34;&gt;Example 2&lt;/a&gt;&lt;/strong&gt; – Digital Input&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.tinkercad.com/things/lmXgNJsurwI-stoplight-example-3?sharecode=pxyJGZr_EZOt9r_W8lEpeshvOLP4ROXxLxVp4X3VoCk&#34;&gt;Example 3&lt;/a&gt;&lt;/strong&gt; – Analog Output&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.tinkercad.com/things/example3&#34;&gt;Example 4&lt;/a&gt;&lt;/strong&gt; – Analog Input&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;arduino-documentation&#34;&gt;Arduino Documentation&lt;/h2&gt;
+&lt;p&gt;Official resources for coding and hardware setup.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://docs.arduino.cc/learn/starting-guide/getting-started-arduino/&#34;&gt;Arduino Basics&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://docs.arduino.cc/learn/electronics/lcd-displays/&#34;&gt;Liquid Crystal Display&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-serial-monitor/&#34;&gt;Serial Monitor&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

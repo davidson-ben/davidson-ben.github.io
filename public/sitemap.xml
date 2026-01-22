@@ -2,12 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/teaching_and_outreach/arduino_fundamentals/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/teaching_and_outreach/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/arduino_fundamentals/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>//localhost:1313/post/copartcoflow/</loc>
@@ -28,6 +24,10 @@
   </url><url>
     <loc>//localhost:1313/project/</loc>
     <lastmod>2025-05-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/teaching_and_outreach/</loc>
+    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>//localhost:1313/research/</loc>
