@@ -1,4 +1,4 @@
 ---
-title: Featured News
+title: Featured Posts
 view: article-grid
 ---

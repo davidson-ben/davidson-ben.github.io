@@ -7,7 +7,6 @@
       "body",
       "button",
       "circle",
-      "code",
       "div",
       "em",
       "figcaption",
@@ -505,17 +504,13 @@
       "z-30"
     ],
     "ids": [
-      "-arduino-documentation",
-      "-tinkercad-project-examples",
       "about-me",
       "arduino-documentation",
       "computational-modeling",
       "delta-courses",
       "delta-teaching--learning-practitioner",
-      "essential-links",
       "field-experiments",
       "final-project",
-      "hardware-diagrams",
       "hide-button",
       "laboratory-experiments",
       "marine-debris-modeling-and-experiments",
@@ -542,7 +537,6 @@
       "sun",
       "teaching_and_outreach",
       "tinkercad-examples",
-      "tinkercad-project-examples",
       "top"
     ]
   }
