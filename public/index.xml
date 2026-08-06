@@ -13,6 +13,16 @@
     </image>
     
     <item>
+      <title>Lawrence University Invited Lecture</title>
+      <link>//localhost:1313/post/lawrence/</link>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/lawrence/</guid>
+      <description>&lt;p&gt;Thanks to Relena Ribbons and the Lawrence University Department of Geosciences for hosting me on campus for an invited lecture. I had a great time presenting my dissertation work regarding beach plastic transport and fate to the senior capstone class.&lt;/p&gt;
+&lt;p&gt;I also had the privilege of listening to the students share their 30-second elevator pitches for their senior thesis projects. I shared some tips and techniques that I apply in my own science communication and my experiences navigating graduate school as a scientist. It was impressive to see the caliber and variety of research projects these students have been pursuing!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Arduino Fundamentals</title>
       <link>//localhost:1313/arduino_fundamentals/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>

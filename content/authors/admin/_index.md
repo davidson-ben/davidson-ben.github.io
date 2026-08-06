@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate (he/him)
+role: PhD Candidate -- Defended July 2nd (he/him)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -50,10 +50,10 @@ interests:
   - Science Outreach
 
 education:
-  - area: PhD Civil and Environmental Engineering (In Progress)
+  - area: PhD Civil and Environmental Engineering (Defended July 2nd)
     institution: University of Wisconsin - Madison
     date_start: 2020-09-01
-#    date_end: 2020-12-31
+    date_end: 2026-08-23
     summary: |
       Investigating the physical beaching process of buoyant marine debris in coastal environments through field work, wave flume experiments, wave basin experiments, and computational modeling.
 

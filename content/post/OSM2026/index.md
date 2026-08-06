@@ -13,6 +13,16 @@ reading_time: false
 draft: true #remove to publish
 ---
 
+I had a great time this past week exploring the beauty of the Norwegian winter ahead of the AGU Ocean Sciences Meeting this week in Glasgow.
+
+A fjord cruise in the Arctic Circle, exploring the Tromsø Polaria, and driving our own team of sled dogs were just a few of the highlights. While I wasn't explicitly doing research on this trip, I learned so much about the Arctic environment. It was a wonderful respite ahead of the conference!
+
+Already one day into OSM, and I have had so much fun connecting with peer scientists from around the globe. Hearing about their novel research is already sparking some new ideas for me.
+
+I am incredibly excited to share my own work, discussing our recent submission to JGR: Oceans and the extensions to debris transport in the swash zone. I will be presenting “The Flow and Transport of Solutes and Marine Debris in the Swash Zone: Measurements and Modeling in Large Scale Experiments” during the Nearshore Processes II Oral Session on Thursday morning.
+
+If anyone in my network is here in Glasgow, I would love to connect while we are here! Let me know in the comments or send me a DM!
+
 Intro about attending OSM in Glasgow and my exciting vacation ahead of time.
 
 Attended a great Sci Policy session - one of the takeaways was writing a blog or podcast.  I'm not going to commit to publishing a full on BLOG, but I'll be a bit more active in posting what I am up to in my research and work and also in my work to stay up to date with various things in the world of environmental fluid mechanics and especially related to Great Lakes current issues.  Really, I will write about whatever interests me and should anyone else be interested in my thoughts, research, or whatever, I will post it on my website and for now will be sharing my posts with my linked in connections.
