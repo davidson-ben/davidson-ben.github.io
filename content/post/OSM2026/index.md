@@ -12,7 +12,8 @@ image:
 reading_time: false
 ---
 
-Ahdead of the AGU Ocean Sciences Meeting in Glasgow, I had the opportunity to explore the beauty of the Norwegian winter.  A fjord cruise in the Arctic Circle, exploring the Tromsø Polaria, and driving our own team of sled dogs were just a few of the highlights of the trip. While I wasn't explicitly doing research on this trip, I learned so much about the Arctic environment. It was a wonderful respite ahead of the conference!
+Ahead of the AGU Ocean Sciences Meeting in Glasgow, I had the opportunity to explore the beauty of the Norwegian winter.  A fjord cruise in the Arctic Circle, exploring the Tromsø Polaria, and driving our own team of sled dogs were just a few of the highlights of the trip. While I wasn't explicitly doing research on this trip, I learned so much about the Arctic environment. It was a wonderful respite ahead of the conference!
+
 
 At OSM, and I had so much fun connecting with peer scientists from around the globe. Hearing about novel research sparked some new ideas for me.  I was incredibly excited to share my own work, discussing a recent submission to JGR: Oceans and the extensions to debris transport in the swash zone. I presented “The Flow and Transport of Solutes and Marine Debris in the Swash Zone: Measurements and Modeling in Large Scale Experiments” during the Nearshore Processes Oral Session.
 
